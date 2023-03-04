@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "736f8d201af85e59",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0d35a9d5ca93019",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59af370b5e2150bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ed6bd44d68a333c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "548e5c55d4f5624f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9413319779e8d705",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55ed62b66c71cd6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "051fa53cabcb74c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a9445dee51d9429",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffe7dae4a00e44a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4afa29131422c2b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fdf753ad9e9282c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "266d33908634fc77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e81531dc8d465a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b1f9d5a09e62f62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "55ed62b66c71cd6c",
+  "lastOpenFiles": [
+    "06 - Projetos",
+    "05 - Material Bruto",
+    "04 - Algum dia, talvez",
+    "04 - Projetos",
+    "03 - Notas Permanetes",
+    "02 - Notas Literatura",
+    "01 - Notas Fulgazes",
+    "00 - Modelos"
+  ]
+}
