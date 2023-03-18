@@ -11,8 +11,12 @@
             "id": "59af370b5e2150bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - Modelos/modelo-nota.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "00 - Modelos/modelo-nota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "00 - Modelos/modelo-nota.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "00 - Modelos/modelo-nota.md"
               }
             }
           }
@@ -155,8 +158,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "55ed62b66c71cd6c",
+  "active": "59af370b5e2150bf",
   "lastOpenFiles": [
+    "00 - Modelos/modelo-nota.md",
     "06 - Projetos",
     "05 - Material Bruto",
     "04 - Algum dia, talvez",
