@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
+                "file": "02 - Notas Permanentes/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
+                "file": "02 - Notas Permanentes/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
+                "file": "02 - Notas Permanentes/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Notas de Referência/The Definitive ANTLR4 Reference.md"
+                "file": "02 - Notas Permanentes/1.md"
               }
             }
           }
@@ -155,12 +155,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55ed62b66c71cd6c",
+  "active": "93efc77d4b133923",
   "lastOpenFiles": [
+    "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
     "00 - Modelos/nota-referencia.md",
-    "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
     "02 - Notas Permanentes/1.md",
-    "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
     "00 - Modelos/nota-sumario.md",
     "00 - Modelos/nota-permanente.md",
     "00 - Modelos/nota-temporaria.md",
