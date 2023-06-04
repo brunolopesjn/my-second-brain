@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Notas Permanentes/1.md",
+                "file": "00 - Modelos/nota-referencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Notas Permanentes/1.md",
+                "file": "00 - Modelos/nota-referencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Notas Permanentes/1.md",
+                "file": "00 - Modelos/nota-referencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Notas Permanentes/1.md"
+                "file": "00 - Modelos/nota-referencia.md"
               }
             }
           }
@@ -155,15 +155,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55ed62b66c71cd6c",
+  "active": "93efc77d4b133923",
   "lastOpenFiles": [
-    "00 - Modelos/nota-temporaria.md",
+    "03 - Notas de Referência/The Definitive ANTRL 4 Reference.md",
+    "00 - Modelos/nota-referencia.md",
+    "00 - Modelos/nota-sumario.md",
     "02 - Notas Permanentes/1.md",
-    "03 - Projetos",
+    "03 - Notas de Referência",
+    "00 - Modelos/nota-temporaria.md",
+    "04 - Projetos",
     "02 - Notas Permanentes",
     "01 - Notas Temporárias",
-    "00 - Modelos/nota-sumario.md",
-    "00 - Modelos/nota-referencia.md",
     "00 - Modelos/nota-permanente.md",
     "README.md",
     "06 - Projetos",
@@ -171,7 +173,6 @@
     "04 - Algum dia, talvez",
     "04 - Projetos",
     "03 - Notas Permanetes",
-    "02 - Notas Literatura",
-    "01 - Notas Fulgazes"
+    "02 - Notas Literatura"
   ]
 }
