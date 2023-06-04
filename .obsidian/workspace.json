@@ -11,12 +11,8 @@
             "id": "93efc77d4b133923",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Notas Permanentes/1b.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Notas Permanentes/1b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Notas Permanentes/1b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,12 +126,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Notas Permanentes/1b.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,15 +150,15 @@
   },
   "active": "93efc77d4b133923",
   "lastOpenFiles": [
-    "02 - Notas Permanentes/1a.md",
     "02 - Notas Permanentes/1b.md",
+    "02 - Notas Permanentes/1a.md",
     "02 - Notas Permanentes/1.md",
     "02 - Notas Permanentes/0.md",
     "00 - Modelos/nota-permanente.md",
-    "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
-    "00 - Modelos/nota-referencia.md",
-    "00 - Modelos/nota-sumario.md",
     "00 - Modelos/nota-temporaria.md",
+    "00 - Modelos/nota-sumario.md",
+    "00 - Modelos/nota-referencia.md",
+    "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
     "03 - Notas de Referência/The Definitive ANTRL 4 Reference.md",
     "03 - Notas de Referência",
     "04 - Projetos",
