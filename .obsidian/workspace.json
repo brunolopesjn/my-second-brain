@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Modelos/nota-referencia.md",
+                "file": "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Modelos/nota-referencia.md",
+                "file": "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Modelos/nota-referencia.md",
+                "file": "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Modelos/nota-referencia.md"
+                "file": "03 - Notas de Referência/The Definitive ANTLR4 Reference.md"
               }
             }
           }
@@ -155,18 +155,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93efc77d4b133923",
+  "active": "55ed62b66c71cd6c",
   "lastOpenFiles": [
-    "03 - Notas de Referência/The Definitive ANTRL 4 Reference.md",
     "00 - Modelos/nota-referencia.md",
-    "00 - Modelos/nota-sumario.md",
+    "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
     "02 - Notas Permanentes/1.md",
-    "03 - Notas de Referência",
+    "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
+    "00 - Modelos/nota-sumario.md",
+    "00 - Modelos/nota-permanente.md",
     "00 - Modelos/nota-temporaria.md",
+    "03 - Notas de Referência/The Definitive ANTRL 4 Reference.md",
+    "03 - Notas de Referência",
     "04 - Projetos",
     "02 - Notas Permanentes",
     "01 - Notas Temporárias",
-    "00 - Modelos/nota-permanente.md",
     "README.md",
     "06 - Projetos",
     "05 - Material Bruto",

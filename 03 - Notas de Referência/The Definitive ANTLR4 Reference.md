@@ -1,15 +1,15 @@
 ---
-created-at: <% tp.file.creation_date() %>
-updated-at: <% tp.file.last_modified_date("DD/MM/YYYY HH:mm:ss") %>
+created-at: 2023-06-04 01:55
+updated-at: 04/06/2023 01:55:05
 ---
 
 #rotuloA #rotuloB #rotuloC
 
 # Autor(es)
 
-## Fulano
+## Terence Parr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in interdum dolor. Fusce sed ultrices urna. Quisque quis massa maximus, pellentesque nibh eget, pharetra ex. Sed efficitur sagittis turpis quis bibendum. Nulla eget ligula maximus, iaculis arcu sit amet, consectetur enim. Suspendisse varius, lectus at pharetra sodales, ipsum quam dictum enim, et dictum magna nulla ut urna. Mauris ac efficitur arcu. Aenean ut congue enim, mollis mollis massa. Donec ut mauris id ex varius dapibus at ac risus.
+É professor de ciência de dados e ciência da computação na Universidade de São Francisco. Ele co-criou e foi o diretor fundados do programa **MS in data science** em 2012. Embora seja mais conhecido por criar o gerador de analisador ANTLR, Terence se reformulou como professor de aprendizado de máquina e 
 
 ## Sicrano
 

@@ -1,6 +1,6 @@
 ---
-data criação: <% tp.file.creation_date() %>
-data modificação: <% tp.file.last_modified_date("DD/MM/YYYY HH:mm:ss") %>
+created-at: <% tp.file.creation_date() %>
+updated-at: <% tp.file.last_modified_date("DD/MM/YYYY HH:mm:ss") %>
 ---
 
 #rotuloA #rotuloB #rotuloC
