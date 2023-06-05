@@ -12,7 +12,10 @@ updated-at: 04/06/2023 21:33:23
 - De forma ampla:
 	- Se uma aplicação computa ou executa sentenças, nós chamamos essa aplicação de **interpretador** (e.g. calculadora e Python);
 	- Se uma aplicação converte sentenças de uma linguagem para outra, nó chamamos essa aplicação de **tradutor** (e.g. Java e C#).
-- 
+- Para reagir de forma apropriada, o interpretador precisa reconhecer todas as sentenças válidas, frases e subfrases de uma linguagem em particular.
+- Reconhecer uma frase significa que podemos identificar os diversos componentes e podemos diferenciar eles de outras frases.
+- Programas que reconhecem linguagens são chamados de **parses** ou **analisadores sintáticos**.
+- Sintaxe se refere as regras que 
 
 # Referências
 - [[The Definitive ANTLR4 Reference]]
