@@ -24,7 +24,10 @@ updated-at: 04/06/2023 21:33:23
 		- Um _lexer_ pode agrupar símbolos relacionados em **classes de símbolos** ou **tipos de símbolos** como, por exemplo, INT (inteiro), ID (identificadores), FLOAT (números de ponto flutuante), etc.
 		- Um símbolo (_token_) é composto de, pelo menos, duas partes: o tipo de símbolo (identificando a estrutura léxica) e o texto correspondente do simbolo pelo _lexer_.
 	- O analisador que utiliza dos simbolos reconhecidos pelo _lexer_ para reconhecer a estrutura de uma frase.
-		- Por padrão os analisadores gerados pelo _ANTLR_ controem uma estrutura de dados chamada de **árvore de análise** (_parse tree_) ou **árvore de sintaxe** (_syntax tree_) que tem como objetivo armazenar como o analisador reconheceu a estrutura da sentença de entrada e suas respectivas frases.
+		- Por padrão os analisadores gerados pelo _ANTLR_ constroem uma estrutura de dados chamada de **árvore de análise** (_parse tree_) ou **árvore de sintaxe** (_syntax tree_) que tem como objetivo armazenar como o analisador reconheceu a estrutura da sentença de entrada e suas respectivas frases.
+- Os nós internos de uma árvore de análise são os nomes que agrupam e identificam seus filhos
+- O nó raiz de uma árvore de análise é o nome da frase mais abstrata.
+- As folhas de uma árvore de análise sempre serão os símbolos de entrada.
 - 
 
 # Referências
