@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Notas Temporárias/Visão Geral ANTLR.md",
+                "file": "01 - Notas Temporárias/ANTLR - 2.1 Let's Get Meta!.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 279.51103591918945
   },
   "right": {
     "id": "ffe7dae4a00e44a6",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Notas Temporárias/Visão Geral ANTLR.md",
+                "file": "01 - Notas Temporárias/ANTLR - 2.1 Let's Get Meta!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Notas Temporárias/Visão Geral ANTLR.md",
+                "file": "01 - Notas Temporárias/ANTLR - 2.1 Let's Get Meta!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Notas Temporárias/Visão Geral ANTLR.md"
+                "file": "01 - Notas Temporárias/ANTLR - 2.1 Let's Get Meta!.md"
               }
             }
           }
@@ -156,10 +156,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55ed62b66c71cd6c",
+  "active": "93efc77d4b133923",
   "lastOpenFiles": [
     "02 - Notas Permanentes/1b.md",
-    "01 - Notas Temporárias/Visão Geral ANTLR.md",
+    "01 - Notas Temporárias/ANTLR - 2.1 Let's Get Meta!.md",
     "02 - Notas Permanentes/Untitled.md",
     "02 - Notas Permanentes/1a.md",
     "02 - Notas Permanentes/1.md",

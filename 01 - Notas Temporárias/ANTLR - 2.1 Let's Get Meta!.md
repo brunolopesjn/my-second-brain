@@ -5,7 +5,7 @@ updated-at: 04/06/2023 21:33:23
 
 #antlr4 
 
-# Capítulo 2 - Visão Geral
+# 2.1 - Let's Get Meta!
 
 - Para implementar uma linguagem, nós temos que construir uma aplicação que seja capaz de ler sentenças e reaja adequadamente as frases e os símbolos de entrada que descobre.
 - Uma **linguagem** é um conjunto de  de **sentenças válidas**, uma sentença é formada de **frases** e frases são formadas de subfrases e símbolos de vocabulário.
@@ -28,7 +28,7 @@ updated-at: 04/06/2023 21:33:23
 - Os nós internos de uma árvore de análise são os nomes que agrupam e identificam seus filhos
 - O nó raiz de uma árvore de análise é o nome da frase mais abstrata.
 - As folhas de uma árvore de análise sempre serão os símbolos de entrada.
-- 
+- Árvores de análise também são úteis para traduções que requer múltiplos passos (passeios na árvore) devido as dependências de computação onde um determinado estágio necessita de informações do estágio anterior.
 
 # Referências
 - [[The Definitive ANTLR4 Reference]]
