@@ -8,14 +8,17 @@ updated-at: 04/06/2023 21:33:23
 # Capítulo 2 - Visão Geral
 
 - Para implementar uma linguagem, nós temos que construir uma aplicação que seja capaz de ler sentenças e reaja adequadamente as frases e os símbolos de entrada que descobre.
-- Uma **linguagem** é um conjunto de  de **sentenças válidas**, uma sentença é formada de **frases** e frases são formadas de subfrases e símbolos de vocabulário
+- Uma **linguagem** é um conjunto de  de **sentenças válidas**, uma sentença é formada de **frases** e frases são formadas de subfrases e símbolos de vocabulário.
 - De forma ampla:
 	- Se uma aplicação computa ou executa sentenças, nós chamamos essa aplicação de **interpretador** (e.g. calculadora e Python);
 	- Se uma aplicação converte sentenças de uma linguagem para outra, nó chamamos essa aplicação de **tradutor** (e.g. Java e C#).
 - Para reagir de forma apropriada, o interpretador precisa reconhecer todas as sentenças válidas, frases e subfrases de uma linguagem em particular.
 - Reconhecer uma frase significa que podemos identificar os diversos componentes e podemos diferenciar eles de outras frases.
 - Programas que reconhecem linguagens são chamados de **parses** ou **analisadores sintáticos**.
-- Sintaxe se refere as regras que 
+- Quando nos referimos a sintaxe, estamos falando das regras que definem os componentes de uma linguagem e iremos construir **gramáticas ANTLR** para especificar uma sintaxe de uma linguagem.
+- A ferramenta ANTLR realiza a tradução de uma gramática para um _parser_, que são similares aos escritos  por uma pessoa desenvolvedora experiente.
+- As próprias gramáticas seguem a sintaxe de uma linguagem otimizada para especificar outras linguagens, em outras palavras, o _ANTLR_ é uma meta-linguagem.
+- 
 
 # Referências
 - [[The Definitive ANTLR4 Reference]]

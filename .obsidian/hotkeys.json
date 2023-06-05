@@ -1,1 +1,11 @@
-{}
+{
+  "editor:toggle-italics": [],
+  "obsidian-smarter-md-hotkeys:smarter-underscore-italics": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ]
+}
