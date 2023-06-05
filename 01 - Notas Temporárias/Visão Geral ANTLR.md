@@ -22,7 +22,10 @@ updated-at: 04/06/2023 21:33:23
 	- O processo de agrupar caracteres em palavras ou símbolos (**tokens**) é chamado de **análise léxica** ou simplesmente de **tokenização**.
 		- Nós chamamos o programa que realiza a tokenização de uma entrada de **lexer**
 		- Um _lexer_ pode agrupar símbolos relacionados em **classes de símbolos** ou **tipos de símbolos** como, por exemplo, INT (inteiro), ID (identificadores), FLOAT (números de ponto flutuante), etc.
-		- Um símbolo (_token_) é composto de, pelo menos, duas partes: o tipo de símbolo (identificando a estrutura léxica) e o texto correspondente
+		- Um símbolo (_token_) é composto de, pelo menos, duas partes: o tipo de símbolo (identificando a estrutura léxica) e o texto correspondente do simbolo pelo _lexer_.
+	- O analisador que utiliza dos simbolos reconhecidos pelo _lexer_ para reconhecer a estrutura de uma frase.
+		- Por padrão os analisadores gerados pelo _ANTLR_ controem uma estrutura de dados chamada de **árvore de análise** (_parse tree_) ou **árvore de sintaxe** (_syntax tree_) que tem como objetivo armazenar como o analisador reconheceu a estrutura da sentença de entrada e suas respectivas frases.
+- 
 
 # Referências
 - [[The Definitive ANTLR4 Reference]]
