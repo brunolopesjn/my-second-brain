@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Notas Temporárias/ANTLR - 2.1 Let's Get Meta!.md",
+                "file": "00 - Modelos/nota-permanente.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Notas Temporárias/ANTLR - 2.1 Let's Get Meta!.md",
+                "file": "00 - Modelos/nota-permanente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Notas Temporárias/ANTLR - 2.1 Let's Get Meta!.md",
+                "file": "00 - Modelos/nota-permanente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Notas Temporárias/ANTLR - 2.1 Let's Get Meta!.md"
+                "file": "00 - Modelos/nota-permanente.md"
               }
             }
           }
@@ -147,34 +147,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "93efc77d4b133923",
   "lastOpenFiles": [
+    "00 - Modelos/nota-referencia.md",
+    "00 - Modelos/nota-temporaria.md",
+    "00 - Modelos/nota-sumario.md",
+    "00 - Modelos/nota-permanente.md",
+    "README.md",
+    "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
     "02 - Notas Permanentes/1b.md",
-    "01 - Notas Temporárias/ANTLR - 2.1 Let's Get Meta!.md",
-    "02 - Notas Permanentes/Untitled.md",
     "02 - Notas Permanentes/1a.md",
     "02 - Notas Permanentes/1.md",
     "02 - Notas Permanentes/0.md",
-    "00 - Modelos/nota-permanente.md",
-    "00 - Modelos/nota-temporaria.md",
-    "00 - Modelos/nota-sumario.md",
-    "00 - Modelos/nota-referencia.md",
-    "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
+    "01 - Notas Temporárias/ANTLR - 2.1 Let's Get Meta!.md",
+    "02 - Notas Permanentes/Untitled.md",
     "03 - Notas de Referência/The Definitive ANTRL 4 Reference.md",
     "03 - Notas de Referência",
     "04 - Projetos",
     "02 - Notas Permanentes",
     "01 - Notas Temporárias",
-    "README.md",
     "06 - Projetos",
     "05 - Material Bruto",
     "04 - Algum dia, talvez",
