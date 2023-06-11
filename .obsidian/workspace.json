@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Notas Permanentes/1.md",
+                "file": "03 - Notas Permanentes/0.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rotuloA",
+                "query": "tag:#Arquitetura_de_Computadores",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Notas Permanentes/1.md",
+                "file": "03 - Notas Permanentes/0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Notas Permanentes/1.md",
+                "file": "03 - Notas Permanentes/0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Notas Permanentes/1.md"
+                "file": "03 - Notas Permanentes/0.md"
               }
             }
           }
@@ -158,8 +158,8 @@
   },
   "active": "93efc77d4b133923",
   "lastOpenFiles": [
-    "03 - Notas Permanentes/0.md",
     "03 - Notas Permanentes/1.md",
+    "03 - Notas Permanentes/0.md",
     "03 - Notas Permanentes/Sem título.md",
     "Arquitetura de Computadores.md",
     "00 - Modelos/nota-sumario.md",
