@@ -1,5 +1,5 @@
 ---
-created-at: <% tp.file.creation_date() %>
+created-at: <% tp.file.creation_date("DD/MM/YYYY HH:mm:ss") %>
 updated-at: <% tp.file.last_modified_date("DD/MM/YYYY HH:mm:ss") %>
 ---
 
@@ -11,12 +11,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean placerat venenat
 
 # Notas Relacionadas
 - NotaA
-- NotaB
-- NotaC
 
 # Referências
 - Referência A
-- Referência B
-- Referência C
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Notas Permanentes/1.md",
+                "file": "00 - Modelos/nota-permanente.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Notas Permanentes/1.md",
+                "file": "00 - Modelos/nota-permanente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Notas Permanentes/1.md",
+                "file": "00 - Modelos/nota-permanente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Notas Permanentes/1.md"
+                "file": "00 - Modelos/nota-permanente.md"
               }
             }
           }
@@ -158,16 +158,16 @@
   },
   "active": "93efc77d4b133923",
   "lastOpenFiles": [
+    "00 - Modelos/nota-referencia.md",
+    "00 - Modelos/nota-sumario.md",
+    "00 - Modelos/nota-temporaria.md",
     "03 - Notas Permanentes/0.md",
     "03 - Notas Permanentes/1.md",
+    "00 - Modelos/nota-permanente.md",
     "03 - Notas Permanentes/Sem título.md",
     "Arquitetura de Computadores.md",
-    "00 - Modelos/nota-sumario.md",
-    "00 - Modelos/nota-permanente.md",
     "01 - Notas Temporárias/Sem título.md",
     "Sem título.md",
-    "00 - Modelos/nota-referencia.md",
-    "00 - Modelos/nota-temporaria.md",
     "README.md",
     "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
     "02 - Notas Permanentes/1b.md",
