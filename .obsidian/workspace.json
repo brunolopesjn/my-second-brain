@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 - Modelos/nota-permanente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 - Modelos/nota-permanente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 - Modelos/nota-permanente.md"
+              }
             }
           }
         ],
@@ -152,10 +156,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55ed62b66c71cd6c",
+  "active": "93efc77d4b133923",
   "lastOpenFiles": [
-    "00 - Modelos/nota-permanente.md",
+    "01 - Notas Temporárias/Sem título.md",
     "Sem título.md",
+    "00 - Modelos/nota-permanente.md",
     "00 - Modelos/nota-referencia.md",
     "00 - Modelos/nota-temporaria.md",
     "00 - Modelos/nota-sumario.md",
