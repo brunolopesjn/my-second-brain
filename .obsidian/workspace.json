@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Modelos/nota-permanente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Modelos/nota-permanente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 - Modelos/nota-permanente.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,12 +152,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93efc77d4b133923",
+  "active": "55ed62b66c71cd6c",
   "lastOpenFiles": [
+    "00 - Modelos/nota-permanente.md",
+    "Sem título.md",
     "00 - Modelos/nota-referencia.md",
     "00 - Modelos/nota-temporaria.md",
     "00 - Modelos/nota-sumario.md",
-    "00 - Modelos/nota-permanente.md",
     "README.md",
     "03 - Notas de Referência/The Definitive ANTLR4 Reference.md",
     "02 - Notas Permanentes/1b.md",
