@@ -1,5 +1,4 @@
 ---
-id: <% tp.file.title %> 
 created-at: <% tp.file.creation_date() %>
 updated-at: <% tp.file.last_modified_date("DD/MM/YYYY HH:mm:ss") %>
 ---
