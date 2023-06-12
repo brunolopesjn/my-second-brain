@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df3563b86a0bb071",
+        "id": "bb693d625bb4ed7f",
         "type": "tabs",
         "children": [
           {
-            "id": "93efc77d4b133923",
+            "id": "fc2b6531d722219e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Modelos/modelo-zotero.md",
+                "file": "01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Modelos/modelo-zotero.md",
+                "file": "01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Modelos/modelo-zotero.md",
+                "file": "01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Modelos/modelo-zotero.md"
+                "file": "01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 01.md"
               }
             }
           }
@@ -156,10 +156,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55ed62b66c71cd6c",
+  "active": "fc2b6531d722219e",
   "lastOpenFiles": [
-    "00 - Modelos/modelo-nota.md",
+    "01 - Notas Temporárias/machadoArquiteturaSistemasOperacionais2013.md",
     "00 - Modelos/modelo-zotero.md",
+    "00 - Modelos/modelo-nota.md",
     "01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 01.md",
     "01 - Notas Temporárias/Arquitetura Sistemas Operacionais - Capítulo 01.md",
     "00 - Modelos/mapa-de-conteúdo.md",

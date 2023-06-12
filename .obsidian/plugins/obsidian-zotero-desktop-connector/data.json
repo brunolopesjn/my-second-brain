@@ -13,11 +13,12 @@
   ],
   "exportFormats": [
     {
-      "name": "Import #1",
+      "name": "Importar Referência",
       "outputPathTemplate": "01 - Notas Temporárias/{{citekey}}.md",
       "imageOutputPathTemplate": "01 - Notas Temporárias/{{citekey}}/",
       "imageBaseNameTemplate": "images",
-      "cslStyle": "associacao-brasileira-de-normas-tecnicas"
+      "cslStyle": "associacao-brasileira-de-normas-tecnicas",
+      "templatePath": "00 - Modelos/modelo-zotero.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
