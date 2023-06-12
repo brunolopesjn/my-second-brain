@@ -10,7 +10,8 @@
 	- Unidade de controle;
 	- Unidade lógica e Aritmética;
 	- Registradores.
-- 
+- A **unidade de controle** (UC) é responsável por  gerenciar as atividades de todos os componentes  do computador, como a gravação de dados em discos ou a busca de instruções na memória.
+- A **unidade lógica de aritmética** (ULA), como o nome indica, é responsável pela realização de operações lógicas (testes e comparações) e aritméticas (somas e subtrações)
 
 
 # Referências
