@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 01.md",
+                "file": "00 - Modelos/modelo-zotero.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 01.md",
+                "file": "00 - Modelos/modelo-zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 01.md",
+                "file": "00 - Modelos/modelo-zotero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 01.md"
+                "file": "00 - Modelos/modelo-zotero.md"
               }
             }
           }
@@ -156,9 +156,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93efc77d4b133923",
+  "active": "55ed62b66c71cd6c",
   "lastOpenFiles": [
-    "00 - Modelos/template-nota.md",
+    "00 - Modelos/modelo-nota.md",
+    "00 - Modelos/modelo-zotero.md",
     "01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 01.md",
     "01 - Notas Temporárias/Arquitetura Sistemas Operacionais - Capítulo 01.md",
     "00 - Modelos/mapa-de-conteúdo.md",
