@@ -33,7 +33,10 @@
 - A **memória principal**, **primária** ou **real** é o local onde são armazenados instruções e dados.
 - A memória é composta por unidades de acesso chamada de células, sendo cada célula composta por um determinado número de **bits**.
 - O **bit** é a unidade básica de memória, podendo assumir o valor lógico **0** ou **1**.
-- Atualmente a grande maioria dos computadores utilizam o **byte** (8 bits) como tamanho de célula, porém encontramos computadores de gerações passadas com células de 16, 32 e até 60 bits
+- Atualmente a grande maioria dos computadores utilizam o **byte** (8 bits) como tamanho de célula, porém encontramos computadores de gerações passadas com células de 16, 32 e até 60 bits.
+- Podemos concluir, então, que a memória é formada por um conjunto de células, onde cada célula possui um determinado número de bits.
+- O acesso ao conteúdo de uma célula é realizado através da especificação de um número chamado **endereço**.
+- O endereço é uma referência 
 
 
 
