@@ -1,6 +1,6 @@
 # Arquitetura de Sistemas Operacionais - Capítulo 01
 
-- Um **sistema operacional**, por mais complexo que possa parecer, é apenas um conjunto de rotinas executado pelo processador, de forma semelhante aos programas dos usuários.
+- Um **sistema operacional**, por mais complexo que possa parecer, é apenas um conjunto de rotinas executado pelo processador, de forma semelhante aos programas das pessoas que utilizam um computador.
 - 
 
 
