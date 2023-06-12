@@ -11,7 +11,11 @@
 	- Unidade lógica e Aritmética;
 	- Registradores.
 - A **unidade de controle** (UC) é responsável por  gerenciar as atividades de todos os componentes  do computador, como a gravação de dados em discos ou a busca de instruções na memória.
-- A **unidade lógica de aritmética** (ULA), como o nome indica, é responsável pela realização de operações lógicas (testes e comparações) e aritméticas (somas e subtrações)
+- A **unidade lógica de aritmética** (ULA), como o nome indica, é responsável pela realização de operações lógicas (testes e comparações) e aritméticas (somas e subtrações).
+- Os **registradores** são dispositivos com a função principal de armazenar dados temporariamente. O conjunto de registradores funcionam como uma memória de alta velocidade interna do processador, porém com uma capacidade de armazenamento reduzida e custo maior do que o da memória principal.
+- Alguns registradores podem ser manipulados  diretamente por instruções (registradores de uso geral), enquanto outros são responsáveis por armazenar informações de controle do processamento e do sistema operacional (registradores de uso específico).
+- Entre os registradores de uso específico, merecem destaque:
+	- o **contador de instruções** (CI) ou **_program counter_** (PC) contém o endereço da próxima instrução
 
 
 # Referências
