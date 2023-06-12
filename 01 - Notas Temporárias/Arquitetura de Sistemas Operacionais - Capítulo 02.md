@@ -1,12 +1,13 @@
 # Arquitetura de Sistemas Operacionais - Capítulo 02
 
+## Seção 2.2 - Hardware
 - Um **sistema computacional** é um conjunto de circuitos eletrônicos interligados, formado pro processadores, memórias, registradores, barramentos, monitores de vídeo, impressoras, mouse, discos de armazenamento, além de outros dispositivos físicos (**_hardware_**).
 - Todos os componentes de um sistema computacional são agrupados em três subsistemas básicos chamados de **unidades funcionais**:
 	- Processador ou Unidade Central de Processamento;
 	- Memória principal;
 	- Dispositivos de Entrada e Saída.
 
-
+## Seção 2.2.1 - Processador
 - O **processador** tem como função principal controlar e executar instruções presentes na memória principal, por meio de operações básicas como somar, subtrair, comparar e movimentar dados.
 - Cada processador é composto por:
 	- Unidade de controle;
@@ -26,6 +27,14 @@
 	2. O processador incrementa o CI para que o registro contenha o endereço da próxima instrução;
 	3. O processador decodifica a instrução armazenada no RI;
 	4. O processador busca os operandos na memória, se houver;
+	5. O processador executa a instrução decodificada.
+
+## Seção 2.2.2 - Memória
+- A **memória principal**, **primária** ou **real** é o local onde são armazenados instruções e dados.
+- A memória é composta por unidades de acesso chamada de células, sendo cada célula composta por um determinado número de **bits**.
+- O **bit** é a unidade básica de memória, podendo assumir o valor lógico **0** ou **1**.
+- Atualmente a grande maioria dos computadores utilizam o **byte** (8 bits) como tamanho de célula, porém encontramos computadores de gerações passadas com células de 16, 32 e até 60 bits
+
 
 
 # Referências
