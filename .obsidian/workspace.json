@@ -8,7 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc2b6531d722219e",
+            "id": "80e5593109138ecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d7592c2ec92b8fe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b0f5233725a29d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "right": {
     "id": "ffe7dae4a00e44a6",
@@ -93,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
+                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
+                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md"
+                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md"
               }
             }
           }
@@ -156,13 +175,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55ed62b66c71cd6c",
+  "active": "80e5593109138ecf",
   "lastOpenFiles": [
+    "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
+    "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
     "Zettelkasten",
     "01 - Notas Temporárias/machadoArquiteturaSistemasOperacionais2013.md",
     "Zettelkasten/00 - Modelos/modelo-zotero.md",
     "Zettelkasten/00 - Modelos/modelo-nota.md",
-    "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
     "01 - Notas Temporárias/Arquitetura Sistemas Operacionais - Capítulo 01.md",
     "Zettelkasten/00 - Modelos/mapa-de-conteúdo.md",
     "00 - Modelos/nota-temporaria.md",
@@ -190,7 +210,6 @@
     "05 - Material Bruto",
     "04 - Algum dia, talvez",
     "04 - Projetos",
-    "03 - Notas Permanetes",
-    "02 - Notas Literatura"
+    "03 - Notas Permanetes"
   ]
 }
