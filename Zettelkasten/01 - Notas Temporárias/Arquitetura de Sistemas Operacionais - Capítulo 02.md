@@ -39,7 +39,7 @@
 - O endereço é uma referência única que podemos fazer a uma célula de memória.
 - Quando um programa deseja ler ou escrever um dado em uma célula, deve primeiro especificar qual endereço de memória desejado, para depois realizar a operação.
 - A memória principal podem ser classificadas em função da sua volatilidade, que é a capacidade de a memória preservar o seu conteúdo mesmo sem uma fonte de alimentação ativa.
-	- Memórias do tipo RAM (Random Access Memory) são voláteis , enquanto as memórias ROM (Read-Only Memory) 
+	- Memórias do tipo RAM (Random Access Memory) são voláteis , enquanto as memórias ROM (Read-Only Memory) e EPROM (Erasable Programmable ROM) são do tipo não voláteis.
 
 
 
