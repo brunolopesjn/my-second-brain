@@ -36,7 +36,10 @@
 - Atualmente a grande maioria dos computadores utilizam o **byte** (8 bits) como tamanho de célula, porém encontramos computadores de gerações passadas com células de 16, 32 e até 60 bits.
 - Podemos concluir, então, que a memória é formada por um conjunto de células, onde cada célula possui um determinado número de bits.
 - O acesso ao conteúdo de uma célula é realizado através da especificação de um número chamado **endereço**.
-- O endereço é uma referência 
+- O endereço é uma referência única que podemos fazer a uma célula de memória.
+- Quando um programa deseja ler ou escrever um dado em uma célula, deve primeiro especificar qual endereço de memória desejado, para depois realizar a operação.
+- A memória principal podem ser classificadas em função da sua volatilidade, que é a capacidade de a memória preservar o seu conteúdo mesmo sem uma fonte de alimentação ativa.
+	- Memórias do tipo RAM (Random Access Memory) são voláteis , enquanto as memórias ROM (Read-Only Memory) 
 
 
 
