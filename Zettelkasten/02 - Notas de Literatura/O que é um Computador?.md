@@ -11,9 +11,11 @@ Todos com componentes de _hardware_ de um sistema computacional podem ser agrupa
 	- Dispositivos de Entrada e Saída;
 
 ### Processador
-A principal função do processador é controlar e executar as instruções presentes na memória principal utilizando operações básicas como, por exemplo, somar, subtrair, comparar e movimentar dados.
+A principal função do processador é controlar e executar as instruções presentes na memória principal utilizando operações básicas como, por exemplo, somar, subtrair, comparar e movimentar dados. Um processador é composto por três partes: **Unidade de Controle**; **Unidade Lógica** e **Aritmética e Registradores**.
 
-Cada proces
+A **Unidade de Controle** (UC) é responsável por gerenciar as atividades de todos os componentes do computador como, por exemplo, a gravação de dados em discos ou a busca de instruções na memória principal.
+
+Já a **Unidade Lógica e Aritmética** (ULA) é responsável pela realização de operações lógicas (testes e comparações) e aritméticas (somas e subtrações).
 
 ### Memória Principal
 
