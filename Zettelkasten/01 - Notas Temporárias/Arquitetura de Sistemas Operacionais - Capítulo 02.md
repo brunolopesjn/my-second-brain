@@ -42,7 +42,12 @@
 	- Memórias do tipo RAM (Random Access Memory) são voláteis , enquanto as memórias ROM (Read-Only Memory) e EPROM (Erasable Programmable ROM) são do tipo não voláteis.
 
 ## Seção 2.2.5
-- Os **dispositivos de entrada e saída** (E/S)
+- Os **dispositivos de entrada e saída** (abreviado como **E/S**) são utilizados para permitir a comunicação entre o sistema computacional e o mundo externo.
+- Podem ser divididos em duas categorias: os que servem como memória secundária e os que servem para a interface homem-máquina.
+- Os dispositivos  utilizados como memória secundária (discos de armazenamento sólido, discos elétrico-mecânicos e fitas magnéticas) caracterizam-se por ter capacidade de armazenamento bastante superior ao da memória principal.
+- Seu custo é relativamente baixo, porém o tempo de acesso à memória secundária é bem superior ao da memória principal.
+- Outros dispositivos têm como finalidade a comunicação usuário-maquina, como teclados, mouse, monitores de vídeo e impressoras.
+- A implementação de interfaces mais amigáveis permite que pessoas menos especializadas utilizem computadores de maneira intuitiva.
 
 
 # Referências
