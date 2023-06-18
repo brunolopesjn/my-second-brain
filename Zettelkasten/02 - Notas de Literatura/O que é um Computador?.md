@@ -30,10 +30,22 @@ Entre os registradores de uso específico, merecem destaque:
 - O **registrador de estado** é responsável por armazenar informações sobre a execução das instruções como, por exemplo, a ocorrência de **_overflow_**. A maioria das instruções, quando executadas, modifica o registrador de estado conforme o resultado da operação.
 
 A forma como o processador executa os programas armazenados na memória principal é chamado de **ciclo de busca de instrução** e segue as etapas descritas a seguir:
-1. O processador busca na memória principal a instrução armazenada no endereço de memória  indicado pelo registrador **contador de instruções** e armazena a instrução no registrador ****
+1. O processador busca na memória principal a instrução armazenada no endereço de memória  indicado pelo registrador **contador de instruções** e armazena a instrução no **registrador de instruções**;
+2. O processador incrementa o **contador de instruções** de modo que contenha o endereço de memória da próxima instrução;
+3. O processador decodifica a instrução armazenada no **registrador de instruções**;
+4. O processador busca os operandos na memória, se houver;
+5. O processador executa a instrução decodificada;
+
+Se houver mais instruções a serem executadas, o processo se repete.
 
 ### Memória Principal
+A memória principal é o local onde são armazenados as instruções dos programas e os dados. A memória é composta por várias unidades chamadas de células, sendo cada célula composta por um determinado número de **bits**.
 
+O **bit** é a unidade de medida básica da memória, podendo assumir valor lógico **zero** ou **um**. Atualmente a grande maioria dos computadores utilizam o **byte** (agrupamento de 8 bits) como tamanho de célula.
+
+Logo, a memória é constituída por um conjunto de células, onde cada uma delas possui um determinado número de bits. Todas as células da memória principal são numeradas iniciando-se de **zero** até seu tamanho total menos uma unidade.
+
+Assim, para acessar o conteúdo de uma célula, 
 
 ### Dispositivos de Entrada e Saída
 
