@@ -60,7 +60,11 @@
 - Apesar das inúmeras vantagens das linguagens de montagem e de alto nível, os programas escritos nessas linguagem não estão prontos para ser diretamente executados pelo processador (**programa-fonte**).
 - Para isso, eles têm de passar por uma etapa de conversão, onde toda representação simbólica das instruções é traduzida para código de máquina.
 - Essa conversão é realizada por um utilitário chamado **tradutor**.
-- O módulo gerado pelo tradutor é denominado **módulo-objeto**, que, apesar d
+- O módulo gerado pelo tradutor é denominado **módulo-objeto**, que, apesar de estar em código de máquina, na maioria das vezes não pode ser ainda executado.
+- Isso ocorre em uma função de um programa poder chamar sub-rotinas externas, e, nesse caso, o tradutor não tem como associar o programa principal às sub-rotinas chamadas.
+- Dependendo do tipo do programa-fonte, existem dois tipos de tradutores que geram código objeto:
+	- O **montador** (**_assembler_**) é o utilitário responsável por traduzir um programa fonte em linguagem de montagem em um programa-objeto não executável. A linguagem de montagem é particular para cada processador, assim como a linguagem de máquina, o que não permite que programas _assembly_ serem portados entre máquinas diferentes.
+	- O **compilador** é o utilitário responsável por gerar, a partir de um programa escrito em uma linaguem de 
 
 ### Seção 2.3.1 - Interpretador
 
