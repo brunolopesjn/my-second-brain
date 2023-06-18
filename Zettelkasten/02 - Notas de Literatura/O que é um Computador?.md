@@ -56,6 +56,17 @@ A memória principal pode ser classificada de acordo com a sua volatilidade, que
 
 ## Software
 
+
+### Tradutor
+
+### Interpretador
+
+#### Linker
+
+#### Loader
+
+#### Depurador
+
 # Referências
 
 1. MACHADO, F. B.; MAIA L. P. **Arquitetura de Sistemas Operacionais**, 5. ed., Rio de Janeiro: LTC, 2013. ISBN:9788521622109 

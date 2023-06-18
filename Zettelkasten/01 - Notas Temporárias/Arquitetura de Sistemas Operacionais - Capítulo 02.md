@@ -7,7 +7,7 @@
 	- Memória principal;
 	- Dispositivos de Entrada e Saída.
 
-## Seção 2.2.1 - Processador
+### Seção 2.2.1 - Processador
 - O **processador** tem como função principal controlar e executar instruções presentes na memória principal, por meio de operações básicas como somar, subtrair, comparar e movimentar dados.
 - Cada processador é composto por:
 	- Unidade de controle;
@@ -29,7 +29,7 @@
 	4. O processador busca os operandos na memória, se houver;
 	5. O processador executa a instrução decodificada.
 
-## Seção 2.2.2 - Memória
+### Seção 2.2.2 - Memória
 - A **memória principal**, **primária** ou **real** é o local onde são armazenados instruções e dados.
 - A memória é composta por unidades de acesso chamada de células, sendo cada célula composta por um determinado número de **bits**.
 - O **bit** é a unidade básica de memória, podendo assumir o valor lógico **0** ou **1**.
@@ -41,13 +41,26 @@
 - A memória principal podem ser classificadas em função da sua volatilidade, que é a capacidade de a memória preservar o seu conteúdo mesmo sem uma fonte de alimentação ativa.
 	- Memórias do tipo RAM (Random Access Memory) são voláteis , enquanto as memórias ROM (Read-Only Memory) e EPROM (Erasable Programmable ROM) são do tipo não voláteis.
 
-## Seção 2.2.5
+### Seção 2.2.5 - Dispositivos de Entrada e Saída
 - Os **dispositivos de entrada e saída** (abreviado como **E/S**) são utilizados para permitir a comunicação entre o sistema computacional e o mundo externo.
 - Podem ser divididos em duas categorias: os que servem como memória secundária e os que servem para a interface homem-máquina.
 - Os dispositivos  utilizados como memória secundária (discos de armazenamento sólido, discos elétrico-mecânicos e fitas magnéticas) caracterizam-se por ter capacidade de armazenamento bastante superior ao da memória principal.
 - Seu custo é relativamente baixo, porém o tempo de acesso à memória secundária é bem superior ao da memória principal.
 - Outros dispositivos têm como finalidade a comunicação usuário-maquina, como teclados, mouse, monitores de vídeo e impressoras.
 - A implementação de interfaces mais amigáveis permite que pessoas menos especializadas utilizem computadores de maneira intuitiva.
+
+## Seção 2.3 - Software
+
+
+### Seção 2.3.1 - Tradutor
+
+### Seção 2.3.1 - Interpretador
+
+### Seção 2.3.3 - Linker
+
+### Seção 2.3.4 - Loader
+
+### Seção 2.3.5 - Depurador
 
 
 # Referências
