@@ -50,9 +50,17 @@
 - A implementação de interfaces mais amigáveis permite que pessoas menos especializadas utilizem computadores de maneira intuitiva.
 
 ## Seção 2.3 - Software
-
+- Para que o hardware tenha utilidade prática, deve existir um conjunto de programas utilizado como interface entre as necessidades do usuário e as capacidade do hardware.
+- A utilização de softwares adequados às diversas tarefas e aplicações torna o trabalho dos usuários muito mais simples e eficiente.
 
 ### Seção 2.3.1 - Tradutor
+- Nos primeiros sistemas computacionais, o ato de programar um computador era bastante complicado, já que o programador deveria possuir conhecimento da arquitetura da máquina e programar em painéis através de fios.
+- Esses programas  eram desenvolvidos em linguagem de máquina e carregados diretamente na memória principal para execução.
+- Com o surgimento das primeiras **linguagens de montagem** ou **_assembly_** e das **linguagens de alto nível**, o programador deixou de se preocupar com muitos aspectos pertinentes ao hardware, como em qual região de memória o programa deveria ser carregado ou quais endereços de memória seriam reservados para as variáveis.
+- Apesar das inúmeras vantagens das linguagens de montagem e de alto nível, os programas escritos nessas linguagem não estão prontos para ser diretamente executados pelo processador (**programa-fonte**).
+- Para isso, eles têm de passar por uma etapa de conversão, onde toda representação simbólica das instruções é traduzida para código de máquina.
+- Essa conversão é realizada por um utilitário chamado **tradutor**.
+- O módulo gerado pelo tradutor é denominado **módulo-objeto**, que, apesar d
 
 ### Seção 2.3.1 - Interpretador
 
