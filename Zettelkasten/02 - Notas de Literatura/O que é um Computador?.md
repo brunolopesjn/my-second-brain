@@ -24,7 +24,7 @@ Podemos classificar os registradores em dois tipos:
 - **registradores de uso específico**: responsáveis por armazenar informações de controle do processamento e do sistema operacional.
 
 Entre os registradores de uso específico, merecem destaque:
-- O **program counter** (PC) ou **contador de instruções** (CI), em português,
+- O **program counter** (PC) ou **contador de instruções** (CI), em português, armazena o endereço de memória da próxima instrução que o processador deve buscar e executar. Toda vez que o processador busca por uma nova instrução, este registrador é atualizado com o endereço de memória da instrução seguinte
 
 ### Memória Principal
 
