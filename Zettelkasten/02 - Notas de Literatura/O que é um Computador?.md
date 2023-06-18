@@ -17,6 +17,15 @@ A **Unidade de Controle** (UC) é responsável por gerenciar as atividades de to
 
 Já a **Unidade Lógica e Aritmética** (ULA) é responsável pela realização de operações lógicas (testes e comparações) e aritméticas (somas e subtrações).
 
+Por sua vez, os **registradores** são dispositivos que possuem a função de armazenar dados temporariamente no processador. O conjunto de registradores funcionam como uma memória interna do processador de alta velocidade mas com capacidade de armazenamento reduzida e custo de fabricação maior do que a memória principal.
+
+Podemos classificar os registradores em dois tipos:
+- **registradores de uso geral**: os quais podem ser manipulados diretamente por instruções;
+- **registradores de uso específico**: responsáveis por armazenar informações de controle do processamento e do sistema operacional.
+
+Entre os registradores de uso específico, merecem destaque:
+- O **program counter** (PC) ou **contador de instruções** (CI), em português,
+
 ### Memória Principal
 
 
