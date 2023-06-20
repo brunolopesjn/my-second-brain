@@ -64,9 +64,10 @@
 - Isso ocorre em uma função de um programa poder chamar sub-rotinas externas, e, nesse caso, o tradutor não tem como associar o programa principal às sub-rotinas chamadas.
 - Dependendo do tipo do programa-fonte, existem dois tipos de tradutores que geram código objeto:
 	- O **montador** (**_assembler_**) é o utilitário responsável por traduzir um programa fonte em linguagem de montagem em um programa-objeto não executável. A linguagem de montagem é particular para cada processador, assim como a linguagem de máquina, o que não permite que programas _assembly_ serem portados entre máquinas diferentes.
-	- O **compilador** é o utilitário responsável por gerar, a partir de um programa escrito em uma linaguem de 
+	- O **compilador** é o utilitário responsável por gerar, a partir de um programa escrito em uma linguagem de alto nível, um programa de linguagem de máquina não executável. As linguagens de alto nível, como Pascal, FORTRAN e COBOL, não têm nenhuma relação direta com a máquina, ficando essa preocupação exclusivamente com o compilador.
 
 ### Seção 2.3.1 - Interpretador
+A partir da execução de
 
 ### Seção 2.3.3 - Linker
 
