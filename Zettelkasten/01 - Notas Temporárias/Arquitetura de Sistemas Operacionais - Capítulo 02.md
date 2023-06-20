@@ -74,8 +74,12 @@
 ### Seção 2.3.5 - Depurador
 - O desenvolvimento de programas está sujeito a erros de lógica, independente de metodologias utilizadas pelo programador.
 - A depuração é um dos estágios desse desenvolvimento, é a utilização de ferramentas adequadas é essencial para acelerar o processo de correção dos programas.
-- O depurador _(debugger)_ é o utilitário que permite ao usuário acompanhar toda a execução de um programa a fim de detectar erros na sua lógi
-
+- O depurador (_debugger_) é o utilitário que permite ao usuário acompanhar toda a execução de um programa a fim de detectar erros na sua lógica.
+- Esse utilitário oferece ao usuário recursos como:
+	- acompanhar a execução de um programa instrução por instrução;
+	- possibilitar a alteração e a visualização do conteúdo de variáveis;
+	- implementar pontos de parada dentro do programa (_breakpoint_), de forma que, durante a execução, o programa para nesses pontos;
+	- especificar que, toda vez que o conteúdo de uma variável for modificado, o programa envie uma mensagem (_watchpoint_)
 
 # Referências
 
