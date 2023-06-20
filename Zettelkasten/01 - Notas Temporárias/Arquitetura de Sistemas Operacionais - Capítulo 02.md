@@ -67,7 +67,9 @@
 	- O **compilador** é o utilitário responsável por gerar, a partir de um programa escrito em uma linguagem de alto nível, um programa de linguagem de máquina não executável. As linguagens de alto nível, como Pascal, FORTRAN e COBOL, não têm nenhuma relação direta com a máquina, ficando essa preocupação exclusivamente com o compilador.
 
 ### Seção 2.3.1 - Interpretador
-A partir da execução de
+- A partir da execução de um programa-fonte escrito em linguagem de alto nível, o interpretador, durante a execução do programa, traduz cada instrução e a executa imediatamente. Algumas linguagens tipicamente interpretadas são o Basic e o Perl.
+- A maior desvantagem no uso de interpretadores é o tempo gasto na tradução das instruções de um programa toda vez que este for executado, já que não existe a geração de um código executável.
+- a vantagem é permitir a implementação
 
 ### Seção 2.3.3 - Linker
 
