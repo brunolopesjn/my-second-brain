@@ -69,13 +69,12 @@
 ### Seção 2.3.1 - Interpretador
 - A partir da execução de um programa-fonte escrito em linguagem de alto nível, o interpretador, durante a execução do programa, traduz cada instrução e a executa imediatamente. Algumas linguagens tipicamente interpretadas são o Basic e o Perl.
 - A maior desvantagem no uso de interpretadores é o tempo gasto na tradução das instruções de um programa toda vez que este for executado, já que não existe a geração de um código executável.
-- a vantagem é permitir a implementação
-
-### Seção 2.3.3 - Linker
-
-### Seção 2.3.4 - Loader
+- A vantagem é permitir a implementação de tipos de dados dinâmicos, ou seja, que podem mudar de tipo durante a execução do programa, aumentando, assim, sua flexibilidade.
 
 ### Seção 2.3.5 - Depurador
+- O desenvolvimento de programas está sujeito a erros de lógica, independente de metodologias utilizadas pelo programador.
+- A depuração é um dos estágios desse desenvolvimento, é a utilização de ferramentas adequadas é essencial para acelerar o processo de correção dos programas.
+- O depurador _(debugger)_ é o utilitário que permite ao usuário acompanhar toda a execução de um programa a fim de detectar erros na sua lógi
 
 
 # Referências
