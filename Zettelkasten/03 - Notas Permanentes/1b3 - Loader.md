@@ -8,4 +8,4 @@ No caso do código relocável, o programa pode ser carregado em qualquer posiç�
 
 # Referências
 
-1. [[Zettelkasten/02 - Notas de Literatura/O que é um Computador?|O que é um Computador?]]
+1. [[1b - Software]]

@@ -8,6 +8,7 @@ Todos com componentes de _hardware_ de um sistema computacional podem ser agrupa
 	- [[1a3 - Dispositivos de Entrada e Saída]];
 
 
-# Referências
 
-1. [[Zettelkasten/02 - Notas de Literatura/O que é um Computador?|O que é um Computador?]]
+# Referência
+[[1 - O que é um computador?]]
+

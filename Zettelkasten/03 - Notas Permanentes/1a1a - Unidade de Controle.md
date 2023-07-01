@@ -4,4 +4,4 @@ A **Unidade de Controle** (UC) é responsável por gerenciar as atividades de to
 
 # Referências
 
-1. [[Zettelkasten/02 - Notas de Literatura/O que é um Computador?|O que é um Computador?]]
+1. [[1a1 - Processador]]

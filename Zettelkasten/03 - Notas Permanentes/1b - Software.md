@@ -10,6 +10,7 @@ O termo **software** foi criado na década de 1940, e é um trocadilho com o ter
 
 Apesar das diferenças conceituais dos termos **software** e **programa**, sempre trataremos ambos os termos como sinônimos.
 
-# Referências
 
-1. [[Zettelkasten/02 - Notas de Literatura/O que é um Computador?|O que é um Computador?]]
+# Referência
+
+1. [[1 - O que é um computador?]]

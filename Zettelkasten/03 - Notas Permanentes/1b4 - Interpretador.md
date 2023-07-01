@@ -8,4 +8,4 @@ Entretanto, existe a vantagem em implementar tipos de dados dinâmicos, ou seja,
 
 # Referências
 
-1. [[Zettelkasten/02 - Notas de Literatura/O que é um Computador?|O que é um Computador?]]
+1. [[1b - Software]]

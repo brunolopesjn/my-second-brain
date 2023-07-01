@@ -24,4 +24,4 @@ Se houver mais instruções a serem executadas, o processo se repete.
 
 # Referências
 
-1. [[Zettelkasten/02 - Notas de Literatura/O que é um Computador?|O que é um Computador?]]
+1. [[1a1 - Processador]]

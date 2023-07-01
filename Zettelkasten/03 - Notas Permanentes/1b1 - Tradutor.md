@@ -12,4 +12,4 @@ O módulo gerado pelo tradutor é denominado **módulo-objeto**, que, apesar de 
 
 # Referências
 
-1. [[Zettelkasten/02 - Notas de Literatura/O que é um Computador?|O que é um Computador?]]
+1. [[1b - Software]]

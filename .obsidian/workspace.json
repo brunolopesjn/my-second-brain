@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dc1a7531441148a1",
+        "id": "ae8923625f79a6aa",
         "type": "tabs",
         "children": [
           {
-            "id": "04374dfd91f7e58d",
+            "id": "b004536d197be644",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,13 +148,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04374dfd91f7e58d",
+  "active": "b004536d197be644",
   "lastOpenFiles": [
-    "Zettelkasten/03 - Notas Permanentes/1a3 - Dispositivos de Entrada e Saída.md",
-    "Zettelkasten/03 - Notas Permanentes/1a2 - Memória Principal.md",
+    "Zettelkasten/03 - Notas Permanentes/1a1a - Unidade de Controle.md",
     "Zettelkasten/03 - Notas Permanentes/1a1c - Registradores.md",
     "Zettelkasten/03 - Notas Permanentes/1a1b - Unidade Lógica e Aritmética.md",
-    "Zettelkasten/03 - Notas Permanentes/1a1a - Unidade de Controle.md",
+    "Zettelkasten/03 - Notas Permanentes/1a3 - Dispositivos de Entrada e Saída.md",
+    "Zettelkasten/03 - Notas Permanentes/1a2 - Memória Principal.md",
     "Zettelkasten/03 - Notas Permanentes/1a1 - Processador.md",
     "Zettelkasten/03 - Notas Permanentes/1a - Hardware.md",
     "Zettelkasten/03 - Notas Permanentes/1 - O que é um computador?.md",
