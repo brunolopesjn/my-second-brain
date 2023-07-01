@@ -87,6 +87,16 @@ Dependendo do tipo de programa-fonte, exitem dois tipos de tradutores que geram 
 - O **montador** (**_assembler_**) é o software utilitário responsável por traduzir um programa fonte em linguagem de montagem em um programa-objeto não executável. A linguagem de montagem é particular de cada processador, assim como a linguagem de máquina, o que não permite que programas _assembly_ serem portados entre máquinas diferentes.
 - O **compilador** é o utilitário responsável por gerar, a partir de um programa escrito em uma linguagem de alto nível, um programa de linguagem de máquina não executável. As linguagens  de alto nível, como C/C++, Rust e Go, não tem nenhuma relação direta com a máquina, ficando essas preocupação exclusivamente com o compilador.
 
+#### Linker
+
+O **linker** ou **editor de ligação** é o utilitário de software responsável por gerar, a partir de um ou mais módulos objeto, um único programa executável. Suas funções básicas são resolver todas as referências simbólicas existentes entre os módulos e reservar memória para execução do programa.
+
+Para resolver todas as referências a símbolos, o **linker** pode pesquisar em bibliotecas do sistema ou da própria pessoa desenvolvedora. Bibliotecas são arquivos que contêm diversos módulos-objetos e definições de símbolos.
+
+#### Loader
+
+
+
 ### Interpretador
 
 A partir da execução de um programa-fonte escrito em linguagem de alto nível, o interpretador, durante a execução do programa, traduz cada instrução e a executa imediatamente. Algumas linguagens tipicamente interpretadas são Python, JavaScript, PHP e Ruby.
@@ -94,10 +104,6 @@ A partir da execução de um programa-fonte escrito em linguagem de alto nível,
 A maior desvantagem no uso de interpretadores é o tempo gasto na tradução das instruções de um programa toda vez que este for executado, já que não existe a geração de um código executável.
 
 Entretanto, existe a vantagem em implementar tipos de dados dinâmicos, ou seja, que podem mudar de tipo durante a execução do programa, aumentando, assim sua flexibilidade.
-
-#### Linker
-
-#### Loader
 
 #### Depurador
 
