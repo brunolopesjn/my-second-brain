@@ -89,13 +89,32 @@ Dependendo do tipo de programa-fonte, exitem dois tipos de tradutores que geram 
 
 ### Interpretador
 
-A partir da execução de um programa-fonte escrito em linguagem de alto nível, o interpretador, durante a execução do programa, traduz cada instrução e a executa imediatamente. Algumas linguagens tipicamente interpretadas são Python, JavaScript
+A partir da execução de um programa-fonte escrito em linguagem de alto nível, o interpretador, durante a execução do programa, traduz cada instrução e a executa imediatamente. Algumas linguagens tipicamente interpretadas são Python, JavaScript, PHP e Ruby.
+
+A maior desvantagem no uso de interpretadores é o tempo gasto na tradução das instruções de um programa toda vez que este for executado, já que não existe a geração de um código executável.
+
+Entretanto, existe a vantagem em implementar tipos de dados dinâmicos, ou seja, que podem mudar de tipo durante a execução do programa, aumentando, assim sua flexibilidade.
 
 #### Linker
 
 #### Loader
 
 #### Depurador
+
+O desenvolvimento de programas está sujeito a erros de lógica, independente das metodologias de desenvolvimento utilizadas pela pessoa desenvolvedora.
+
+A **depuração** é um dos estágios desse desenvolvimento, e a utilização de ferramentas adequadas é essencial para acelerar o processo de correção de erros dos programas.
+
+O depurador (**debbuger**) é o utilitário que permite a pessoa desenvolvedora acompanhar toda a execução de um programa a fim de detectar erros na sua lógica.
+
+Esse utilitário oferece recursos como:
+- Acompanhar a execução de um programa instrução por instrução;
+- Possibilitar a alteração e a visualização do conteúdo de variáveis;
+- Implementar pontos de parada dentro do programa (**_breakpoint_**), de forma que, durante a execução, o programa para nesses pontos;
+- Especificar que, toda vez que o conteúdo de uma variável for modificado, o programa envio uma mensagem (**_watchpoint_**)
+
+# Notas
+- [[Arquitetura de Sistemas Operacionais - Capítulo 02]]
 
 # Referências
 
