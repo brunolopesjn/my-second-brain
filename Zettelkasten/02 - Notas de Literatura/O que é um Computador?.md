@@ -128,5 +128,6 @@ Esse utilitário oferece recursos como:
 
 # Referências
 
-1. MACHADO, F. B.; MAIA L. P. **Arquitetura de Sistemas Operacionais**, 5. ed., Rio de Janeiro: LTC, 2013. ISBN:9788521622109 
-2. WIKIPEDIA. **Software**, Acessado em 01/07/2023, Disponível em: <https://pt.wikipedia.org/wiki/Software>
+1. [[Arquitetura de Sistemas Operacionais - Capítulo 02]]
+2. MACHADO, F. B.; MAIA L. P. **Arquitetura de Sistemas Operacionais**, 5. ed., Rio de Janeiro: LTC, 2013. ISBN:9788521622109 
+3. WIKIPEDIA. **Software**, Acessado em 01/07/2023, Disponível em: <https://pt.wikipedia.org/wiki/Software>

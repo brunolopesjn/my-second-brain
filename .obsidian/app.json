@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "newFileLocation": "current",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }
