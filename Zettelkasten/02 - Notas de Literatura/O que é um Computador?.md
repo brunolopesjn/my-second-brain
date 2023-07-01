@@ -57,10 +57,15 @@ A memória principal pode ser classificada de acordo com a sua volatilidade, que
 
 Podemos dividir os dispositivos de entrada e saída em duas categorias: 
 - _Os que servem como memória secundária_ como, por exemplo, discos de armazenamento sólido, discos elétrico magnéticos e fitas magnéticas caracterizam-se por ter a capacidade de armazenamento bastante superior ao da memória principal e custo relativamente baixo, porém o tempo de acesso à memória secundária é bem superior ao da memória principal.
-- _Os que servem como interface humano-máquina_: 
+- _Os que servem como interface humano-máquina_ como, por exemplo, monitores de vídeo, teclado, _mouse_, dispositivos de áudio, impressoras e etc, tem como finalidade permitir que pessoas menos especializadas utilizem computadores de maneira intuitiva.
 
 ## Software
 
+Para que o hardware tenha utilidade prática, deve existir um conjunto de programas que servem como interface entre as necessidades das pessoas que utilizam um computador e as capacidades do hardware em uso.
+
+Um programa é composto por uma sequência de instruções, que podem ser em linguagem natural ou codificada (linguagem de programação), que é interpretada e executada por um processador ou por uma máquina virtual.
+
+O termo **software** foi criado na década de 1940, e é um trocadilho com o termo **hardware** que, em inglês
 
 ### Tradutor
 
