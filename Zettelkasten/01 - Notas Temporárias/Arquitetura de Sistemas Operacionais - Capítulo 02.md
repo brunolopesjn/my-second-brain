@@ -73,10 +73,15 @@
 
 ### Seção 2.3.3 - Linker
 
-O **_linker_** ou **editor de ligação** é o utilitá
+- O **_linker_** ou **editor de ligação** é o utilitário responsável por gerar, a partir de um ou mais módulos-objeto, um único programa executável.
+- Suas funções básicas são resolver todas as referências simbólicas existentes entre os módulos e reservar memória para execução do programa.
+- Para resolver todas as referências a símbolos, o **_linker_** pode pesquisar em bibliotecas do sistema ou da própria pessoa desenvolvedora.
+- Bibliotecas são arquivos que contêm diversos módulos-objetos e definições de símbolos.
 
 ### Seção 2.3.4 - Loader
 
+- O **_loader_** ou **carregador** é o utilitário responsável por carregar na memória principal um programa para ser executado.
+- O procedimento de carga varia com o código gerado pelo **linker** e, em função, deste, o **_loader_** é classificado como do tipo absoluto ou relocável.
 
 ### Seção 2.3.5 - Depurador
 - O desenvolvimento de programas está sujeito a erros de lógica, independente de metodologias utilizadas pelo programador.
