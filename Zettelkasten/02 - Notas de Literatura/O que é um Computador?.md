@@ -83,7 +83,13 @@ Para isso, eles têm de passar por uma etapa de conversão, onde toda representa
 
 O módulo gerado pelo tradutor é denominado **módulo-objeto**, que, apesar de estar em código de máquina, na maioria das vezes não pode ser executado ainda. Isso ocorre em uma função de um programa poder realizar chamadas a sub-rotinas externas e, nesse caso, o tradutor não tem como associar o programa principal às sub-rotinas chamadas.
 
+Dependendo do tipo de programa-fonte, exitem dois tipos de tradutores que geram código aberto:
+- O **montador** (**_assembler_**) é o software utilitário responsável por traduzir um programa fonte em linguagem de montagem em um programa-objeto não executável. A linguagem de montagem é particular de cada processador, assim como a linguagem de máquina, o que não permite que programas _assembly_ serem portados entre máquinas diferentes.
+- O **compilador** é o utilitário responsável por gerar, a partir de um programa escrito em uma linguagem de alto nível, um programa de linguagem de máquina não executável. As linguagens  de alto nível, como C/C++, Rust e Go, não tem nenhuma relação direta com a máquina, ficando essas preocupação exclusivamente com o compilador.
+
 ### Interpretador
+
+A partir da execução de um programa-fonte escrito em linguagem de alto nível, o interpretador, durante a execução do programa, traduz cada instrução e a executa imediatamente. Algumas linguagens tipicamente interpretadas são Python, JavaScript
 
 #### Linker
 
