@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc880b0e95cefaaf",
+        "id": "dc1a7531441148a1",
         "type": "tabs",
         "children": [
           {
-            "id": "732416830114565f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/03 - Notas Permanentes/Tradutor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c57e3cbfd488b432",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24c0ce44c9dd856f",
+            "id": "04374dfd91f7e58d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/03 - Notas Permanentes/Tradutor.md",
+                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/03 - Notas Permanentes/Tradutor.md",
+                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/03 - Notas Permanentes/Tradutor.md"
+                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md"
               }
             }
           }
@@ -174,21 +156,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "732416830114565f",
+  "active": "04374dfd91f7e58d",
   "lastOpenFiles": [
-    "Zettelkasten/03 - Notas Permanentes/Software.md",
-    "Zettelkasten/03 - Notas Permanentes/Tradutor.md",
-    "Zettelkasten/03 - Notas Permanentes/O que é um computador?.md",
+    "Zettelkasten/03 - Notas Permanentes/1a3 - Dispositivos de Entrada e Saída.md",
+    "Zettelkasten/03 - Notas Permanentes/1a2 - Memória Principal.md",
+    "Zettelkasten/03 - Notas Permanentes/1a1c - Registradores.md",
+    "Zettelkasten/03 - Notas Permanentes/1a1b - Unidade Lógica e Aritmética.md",
+    "Zettelkasten/03 - Notas Permanentes/1a1a - Unidade de Controle.md",
+    "Zettelkasten/03 - Notas Permanentes/1a1 - Processador.md",
+    "Zettelkasten/03 - Notas Permanentes/1a - Hardware.md",
+    "Zettelkasten/03 - Notas Permanentes/1 - O que é um computador?.md",
+    "Zettelkasten/03 - Notas Permanentes/1b5 - Depurador.md",
+    "Zettelkasten/03 - Notas Permanentes/1b4 - Interpretador.md",
+    "Zettelkasten/03 - Notas Permanentes/1b3 - Loader.md",
+    "Zettelkasten/03 - Notas Permanentes/1b2 - Linker.md",
+    "Zettelkasten/03 - Notas Permanentes/1b1 - Tradutor.md",
+    "Zettelkasten/03 - Notas Permanentes/1b - Software.md",
     "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
-    "Zettelkasten/03 - Notas Permanentes/Hardware.md",
-    "Zettelkasten/03 - Notas Permanentes/Processador.md",
-    "Zettelkasten/03 - Notas Permanentes/Unidade Lógica e Aritmética.md",
-    "Zettelkasten/03 - Notas Permanentes/Registradores.md",
-    "Zettelkasten/03 - Notas Permanentes/Memória Principal.md",
-    "Zettelkasten/03 - Notas Permanentes/Unidade de Controle.md",
-    "Zettelkasten/03 - Notas Permanentes/Dispositivos de Entrada e Saída.md",
-    "Zettelkasten/00 - Modelos/modelo-nota.md",
     "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
+    "Zettelkasten/00 - Modelos/modelo-nota.md",
     "Zettelkasten/00 - Modelos/mapa-de-conteúdo.md",
     "{{annotation.imageRelativePath}}.md",
     "Zettelkasten/00 - Modelos/modelo-zotero.md",
@@ -199,10 +185,6 @@
     "00 - Modelos/mapa-de-conteudo.md",
     "00 - Modelos/nota-sumario.md",
     "00 - Modelos/nota-permanente.md",
-    "00 - Modelos/nota-referencia.md",
-    "03 - Notas Permanentes/0.md",
-    "03 - Notas Permanentes/1.md",
-    "03 - Notas Permanentes/Sem título.md",
     "Zettelkasten/02 - Notas de Literatura",
     "04 - Projetos",
     "Zettelkasten/03 - Notas Permanentes",

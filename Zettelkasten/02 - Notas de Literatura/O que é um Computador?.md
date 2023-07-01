@@ -123,11 +123,7 @@ Esse utilitário oferece recursos como:
 - Implementar pontos de parada dentro do programa (**_breakpoint_**), de forma que, durante a execução, o programa para nesses pontos;
 - Especificar que, toda vez que o conteúdo de uma variável for modificado, o programa envio uma mensagem (**_watchpoint_**)
 
-# Notas
-- [[Arquitetura de Sistemas Operacionais - Capítulo 02]]
-
 # Referências
 
 1. [[Arquitetura de Sistemas Operacionais - Capítulo 02]]
-2. MACHADO, F. B.; MAIA L. P. **Arquitetura de Sistemas Operacionais**, 5. ed., Rio de Janeiro: LTC, 2013. ISBN:9788521622109 
-3. WIKIPEDIA. **Software**, Acessado em 01/07/2023, Disponível em: <https://pt.wikipedia.org/wiki/Software>
+2. WIKIPEDIA. **Software**, Acessado em 01/07/2023, Disponível em: <https://pt.wikipedia.org/wiki/Software>
