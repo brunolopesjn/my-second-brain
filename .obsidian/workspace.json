@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/01 - Notas Temporárias/Entendendo Algoritmos - Capítulo 1.md",
+                "file": "Zettelkasten/01 - Notas Temporárias/Algoritmos Teoria e Prática - Capítulo 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/01 - Notas Temporárias/Entendendo Algoritmos - Capítulo 1.md",
+                "file": "Zettelkasten/01 - Notas Temporárias/Algoritmos Teoria e Prática - Capítulo 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/01 - Notas Temporárias/Entendendo Algoritmos - Capítulo 1.md",
+                "file": "Zettelkasten/01 - Notas Temporárias/Algoritmos Teoria e Prática - Capítulo 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/01 - Notas Temporárias/Entendendo Algoritmos - Capítulo 1.md"
+                "file": "Zettelkasten/01 - Notas Temporárias/Algoritmos Teoria e Prática - Capítulo 01.md"
               }
             }
           }
@@ -156,10 +156,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b004536d197be644",
+  "active": "55ed62b66c71cd6c",
   "lastOpenFiles": [
-    "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
     "Zettelkasten/01 - Notas Temporárias/Entendendo Algoritmos - Capítulo 1.md",
+    "Zettelkasten/01 - Notas Temporárias/Algoritmos Teoria e Prática - Capítulo 01.md",
+    "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
     "Zettelkasten/00 - Modelos/modelo-nota.md",
     "Zettelkasten/00 - Modelos/mapa-de-conteúdo.md",
     "Zettelkasten/03 - Notas Permanentes/1a1a - Unidade de Controle.md",
@@ -184,7 +185,6 @@
     "01 - Notas Temporárias/Arquitetura Sistemas Operacionais - Capítulo 01.md",
     "00 - Modelos/nota-temporaria.md",
     "00 - Modelos/mapa-de-conteudo.md",
-    "00 - Modelos/nota-sumario.md",
     "Zettelkasten/02 - Notas de Literatura",
     "04 - Projetos",
     "Zettelkasten/03 - Notas Permanentes",
