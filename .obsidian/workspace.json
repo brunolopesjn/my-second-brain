@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
+                "file": "Zettelkasten/03 - Notas Permanentes/O que é um computador?.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "4d569f7e5a752854",
+        "id": "c57e3cbfd488b432",
         "type": "tabs",
         "children": [
           {
-            "id": "3f6b6e2a1b0f5bc4",
+            "id": "24c0ce44c9dd856f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
+                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "right": {
     "id": "ffe7dae4a00e44a6",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
+                "file": "Zettelkasten/03 - Notas Permanentes/O que é um computador?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
+                "file": "Zettelkasten/03 - Notas Permanentes/O que é um computador?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md"
+                "file": "Zettelkasten/03 - Notas Permanentes/O que é um computador?.md"
               }
             }
           }
@@ -177,15 +176,17 @@
   },
   "active": "732416830114565f",
   "lastOpenFiles": [
-    "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
+    "Zettelkasten/03 - Notas Permanentes/Hardware.md",
     "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
+    "Zettelkasten/03 - Notas Permanentes/O que é um computador?.md",
+    "Zettelkasten/00 - Modelos/modelo-nota.md",
+    "Zettelkasten/00 - Modelos/mapa-de-conteúdo.md",
+    "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
     "{{annotation.imageRelativePath}}.md",
     "Zettelkasten/00 - Modelos/modelo-zotero.md",
     "Zettelkasten",
     "01 - Notas Temporárias/machadoArquiteturaSistemasOperacionais2013.md",
-    "Zettelkasten/00 - Modelos/modelo-nota.md",
     "01 - Notas Temporárias/Arquitetura Sistemas Operacionais - Capítulo 01.md",
-    "Zettelkasten/00 - Modelos/mapa-de-conteúdo.md",
     "00 - Modelos/nota-temporaria.md",
     "00 - Modelos/mapa-de-conteudo.md",
     "00 - Modelos/nota-sumario.md",
@@ -202,7 +203,6 @@
     "02 - Notas Permanentes/1a.md",
     "02 - Notas Permanentes/1.md",
     "01 - Notas Temporárias/ANTLR - 2.1 Let's Get Meta!.md",
-    "03 - Notas de Referência/The Definitive ANTRL 4 Reference.md",
     "Zettelkasten/02 - Notas de Literatura",
     "04 - Projetos",
     "Zettelkasten/03 - Notas Permanentes",

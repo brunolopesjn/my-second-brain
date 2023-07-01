@@ -82,8 +82,8 @@
 
 - O **_loader_** ou **carregador** é o utilitário responsável por carregar na memória principal um programa para ser executado.
 - O procedimento de carga varia com o código gerado pelo **linker** e, em função, deste, o **_loader_** é classificado como do tipo **absoluto** ou **relocável**.
-	- Se o código fonte for do tipo absoluto, o _loader_ só necessita conhecer o endereço de memória inicial e o tamanho do módulo para realizar o carregamento. Então, o _loader_ transfere o programa da memória secundária para a memória principal e inicia a sua execução (**_loader_ absoluto**).
-	- No caso do código relocável, o programa pode ser carregado em qualquer posição de memória, e o loader é responsável pela realocação no momento do carregamento (**_loader_ relocavel**)
+- Se o código fonte for do tipo absoluto, o _loader_ só necessita conhecer o endereço de memória inicial e o tamanho do módulo para realizar o carregamento. Então, o _loader_ transfere o programa da memória secundária para a memória principal e inicia a sua execução (**_loader_ absoluto**).
+- No caso do código relocável, o programa pode ser carregado em qualquer posição de memória, e o loader é responsável pela realocação no momento do carregamento (**_loader_ relocavel**)
 
 ### Seção 2.3.5 - Depurador
 - O desenvolvimento de programas está sujeito a erros de lógica, independente de metodologias utilizadas pelo programador.
