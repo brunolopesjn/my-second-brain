@@ -53,6 +53,7 @@ A memória principal pode ser classificada de acordo com a sua volatilidade, que
 
 ### Dispositivos de Entrada e Saída
 
+**Dispositivos de Entrada e Saída** (ES) ou do inglês **Input Output Devices** (IO) são utilizados 
 
 ## Software
 
