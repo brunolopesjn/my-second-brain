@@ -11,8 +11,12 @@
             "id": "b004536d197be644",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/01 - Notas Temporárias/Entendendo Algoritmos - Capítulo 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/01 - Notas Temporárias/Entendendo Algoritmos - Capítulo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/01 - Notas Temporárias/Entendendo Algoritmos - Capítulo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/01 - Notas Temporárias/Entendendo Algoritmos - Capítulo 1.md"
+              }
             }
           }
         ],
@@ -150,6 +158,10 @@
   },
   "active": "b004536d197be644",
   "lastOpenFiles": [
+    "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
+    "Zettelkasten/01 - Notas Temporárias/Entendendo Algoritmos - Capítulo 1.md",
+    "Zettelkasten/00 - Modelos/modelo-nota.md",
+    "Zettelkasten/00 - Modelos/mapa-de-conteúdo.md",
     "Zettelkasten/03 - Notas Permanentes/1a1a - Unidade de Controle.md",
     "Zettelkasten/03 - Notas Permanentes/1a1c - Registradores.md",
     "Zettelkasten/03 - Notas Permanentes/1a1b - Unidade Lógica e Aritmética.md",
@@ -165,9 +177,6 @@
     "Zettelkasten/03 - Notas Permanentes/1b1 - Tradutor.md",
     "Zettelkasten/03 - Notas Permanentes/1b - Software.md",
     "Zettelkasten/02 - Notas de Literatura/O que é um Computador?.md",
-    "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
-    "Zettelkasten/00 - Modelos/modelo-nota.md",
-    "Zettelkasten/00 - Modelos/mapa-de-conteúdo.md",
     "{{annotation.imageRelativePath}}.md",
     "Zettelkasten/00 - Modelos/modelo-zotero.md",
     "Zettelkasten",
@@ -176,7 +185,6 @@
     "00 - Modelos/nota-temporaria.md",
     "00 - Modelos/mapa-de-conteudo.md",
     "00 - Modelos/nota-sumario.md",
-    "00 - Modelos/nota-permanente.md",
     "Zettelkasten/02 - Notas de Literatura",
     "04 - Projetos",
     "Zettelkasten/03 - Notas Permanentes",
