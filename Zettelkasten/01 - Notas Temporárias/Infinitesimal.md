@@ -1,5 +1,11 @@
 # Infinitesimal
 
+## Introdução
+
+- inverno de 1663, o cortesão francês Samuel Sorbière foi apresentado  numa reunião da então recém-fundada academia científica, a Royal Society de Londres.
+- Sorbière era um amigo de Henry Oldenburg, distinto secretário da Royal Society, nos sombrios dias da guerra civil, quando o rei Carlos II foi exilado da Inglaterra e estabeleceu sua corte em Paris.
+- 
+
 ## Parte I
 
 ### Os filhos de Inácio
