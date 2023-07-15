@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/01 - Notas Temporárias/Algoritmos Teoria e Prática - Capítulo 01.md",
+                "file": "Zettelkasten/01 - Notas Temporárias/Infinitesimal.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "right": {
     "id": "ffe7dae4a00e44a6",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/01 - Notas Temporárias/Algoritmos Teoria e Prática - Capítulo 01.md",
+                "file": "Zettelkasten/01 - Notas Temporárias/Infinitesimal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/01 - Notas Temporárias/Algoritmos Teoria e Prática - Capítulo 01.md",
+                "file": "Zettelkasten/01 - Notas Temporárias/Infinitesimal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/01 - Notas Temporárias/Algoritmos Teoria e Prática - Capítulo 01.md"
+                "file": "Zettelkasten/01 - Notas Temporárias/Infinitesimal.md"
               }
             }
           }
@@ -156,10 +157,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55ed62b66c71cd6c",
+  "active": "b004536d197be644",
   "lastOpenFiles": [
-    "Zettelkasten/01 - Notas Temporárias/Entendendo Algoritmos - Capítulo 1.md",
     "Zettelkasten/01 - Notas Temporárias/Algoritmos Teoria e Prática - Capítulo 01.md",
+    "Zettelkasten/01 - Notas Temporárias/Infinitesimal.md",
+    "Zettelkasten/01 - Notas Temporárias/Entendendo Algoritmos - Capítulo 1.md",
     "Zettelkasten/01 - Notas Temporárias/Arquitetura de Sistemas Operacionais - Capítulo 02.md",
     "Zettelkasten/00 - Modelos/modelo-nota.md",
     "Zettelkasten/00 - Modelos/mapa-de-conteúdo.md",
@@ -184,7 +186,6 @@
     "01 - Notas Temporárias/machadoArquiteturaSistemasOperacionais2013.md",
     "01 - Notas Temporárias/Arquitetura Sistemas Operacionais - Capítulo 01.md",
     "00 - Modelos/nota-temporaria.md",
-    "00 - Modelos/mapa-de-conteudo.md",
     "Zettelkasten/02 - Notas de Literatura",
     "04 - Projetos",
     "Zettelkasten/03 - Notas Permanentes",
