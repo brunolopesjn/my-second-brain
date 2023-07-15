@@ -1,9 +1,5 @@
 # Infinitesimal
 
-## Introdução
-
-- 
-
 ## Parte I
 
 ### Os filhos de Inácio
