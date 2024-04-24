@@ -42,7 +42,7 @@ Conjunto de anotações ou marcações realizadas no livro separadas por capítu
 - Niklas Luhmann possuia duas slip-box: uma para armazenar notas bibliográficas, as quais contém as referências e notas breves do conteúdo da literatura e; a principal na qual ele coletava e gerava as suas ideias em resposta ao que ele lia.
 - Quando Luhmann lia algo, ele escreveria as informações bibliográficas em um lado de um cartão e tomava notas breves sobre o conteúdo lido no outro lado do cartão. Essas notas iriam para a slip-box bibliográfica.
 - Em um segundo momento, Luhmann olhava as suas notas breves e pensava sobre sua relevância para seu próprio pensamento e escrevia.
-- Então ele mudava para a slip-box principal e escrevia suas ideias, comentários e pensamentos em novos cartões de papel registrando apenas um única ideia por e restringindo-se a um dos lados do cartào de papel, tornando mais fácil para ler posteriormente sem ter que retira-los da caixa de madeira.
+- Então ele mudava para a slip-box principal e escrevia suas ideias, comentários e pensamentos em novos cartões de papel registrando apenas um única ideia por e restringindo-se a um dos lados do cartão de papel, tornando mais fácil para ler posteriormente sem ter que retira-los da caixa de madeira.
 - Enquanto as notas de literatura eram breves, ele escrevia as notas permanentes com muito cuidado e não muito diferente do estilo de um manuscrito final: sentenças completas e com referências explícitas para a literatura onde ele obteve o material.
 - Processo parecido com o de uma tradução, onde você se utiliza de palavras diferentes que se ajustam ao contexto diferente mas esforçando-se para manter o significado original tão verdadeiro quanto possível.
 - Na verdade o processo é muito simples e agora com softwares é muito mais fácil faze-lo: não é necessário adicionar números nas notas ou cortar papéis como Luhmann o fizera.
@@ -50,3 +50,8 @@ Conjunto de anotações ou marcações realizadas no livro separadas por capítu
 ## 2 - Everything You Need to Do
 
 - "Tomar notas em papel ou no computador não tornam a física contemporânea ou outros empreendimentos intelectuais fáceis, tornam eles possíveis" - Neil Levy
+- "Não importa como o processo interno seja implementado, você necessita entender até que ponto a mente depende dessas estruturas externas" - Neil Levy
+
+### 2.1 - Write a paper step by step
+
+-
