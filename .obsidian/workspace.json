@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/index.md.md",
+                "file": "Zettelkasten/Notas de Literatura/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/index.md.md",
+                "file": "Zettelkasten/Notas de Literatura/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/index.md.md",
+                "file": "Zettelkasten/Notas de Literatura/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/index.md.md"
+                "file": "Zettelkasten/Notas de Literatura/Untitled.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c21f6abbdcdb9ba",
+  "active": "92778db39cbf9b0f",
   "lastOpenFiles": [
-    "README.md",
     "Zettelkasten/Notas Permanentes/index.md.md",
+    "Zettelkasten/Notas de Literatura/Untitled.md",
+    "README.md",
     "Zettelkasten/Notas de Literatura",
     "Untitled",
     "Zettelkasten/Notas Permanentes",
