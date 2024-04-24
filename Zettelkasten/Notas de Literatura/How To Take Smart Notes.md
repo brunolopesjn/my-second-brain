@@ -44,4 +44,9 @@ Conjunto de anotações ou marcações realizadas no livro separadas por capítu
 - Em um segundo momento, Luhmann olhava as suas notas breves e pensava sobre sua relevância para seu próprio pensamento e escrevia.
 - Então ele mudava para a slip-box principal e escrevia suas ideias, comentários e pensamentos em novos cartões de papel registrando apenas um única ideia por e restringindo-se a um dos lados do cartào de papel, tornando mais fácil para ler posteriormente sem ter que retira-los da caixa de madeira.
 - Enquanto as notas de literatura eram breves, ele escrevia as notas permanentes com muito cuidado e não muito diferente do estilo de um manuscrito final: sentenças completas e com referências explícitas para a literatura onde ele obteve o material.
-- 
+- Processo parecido com o de uma tradução, onde você se utiliza de palavras diferentes que se ajustam ao contexto diferente mas esforçando-se para manter o significado original tão verdadeiro quanto possível.
+- Na verdade o processo é muito simples e agora com softwares é muito mais fácil faze-lo: não é necessário adicionar números nas notas ou cortar papéis como Luhmann o fizera.
+- Nó necessitamos de uma estrutura externa simples para pensar de forma a compensar a limitação do nosso cérebro.
+## 2 - Everything You Need to Do
+
+- "Tomar notas em papel ou no computador não tornam a física contemporânea ou outros empreendimentos intelectuais fáceis, tornam eles possíveis" - Neil Levy
