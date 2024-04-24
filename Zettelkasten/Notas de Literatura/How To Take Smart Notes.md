@@ -19,5 +19,9 @@ Conjunto de anotações ou marcações realizadas no livro separadas por capítu
 - A escrita tem papel crucial no aprendizado, estudo e na pesquisa e supreendentemente discute-se muito pouco a respeito.
 - Existem livros de autoajuda voltados a ajudar pessoas a tomarem notas ou a definirem uma rotina de estudo.
 - Esses livros dividem-se em duas categorias: Os que ensinam os requerimentos formais de estilo, estrutura ou como citar corretamente e; Os psicológico que ensinam como alcançar seu objetivo sem perder a sanidade no processo ou antes do orientador ou editor iniciar recusar a adiar a entrega mais uma vez.
-- Este livro se propõe a preencher esta lacuna
+- Este livro se propõe a preencher esta lacuna apresentando um método para, de forma eficiente, registar pensamentos e descobertas em peças escritas e construir um tesouro de notas interconectadas nesse processo.
+- Qualquer melhoramento na forma como trabalhamos no processo diário de escrita, de como tomamos notas e de o que fazemos com elas, irá fazer toda a diferença no momento em que depararmos com uma folha/tela em branco.
+- Se escrevermos notas de forma não sistemática, ineficiente ou simplesmente da forma errada, podemos não perceber ate chegarmos a entrar em pânico por conta do prazo enquanto existem aquelas pessoas que escrevem muito bem e ainda possuem tempo para um café toda vez que a convidamos.
+- Muitas pessoas lutam por razões mundanas e uma delas é o mito da página em branco. Elas lutam por acreditar que a escrita começa com uma folha em branco.
+- Partir de algo que já est
 
