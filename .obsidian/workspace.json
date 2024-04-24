@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Notas de Literatura/Untitled.md",
+                "file": "Zettelkasten/Notas de Literatura/How To Take Smart Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Notas de Literatura/Untitled.md",
+                "file": "Zettelkasten/Notas de Literatura/How To Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Notas de Literatura/Untitled.md",
+                "file": "Zettelkasten/Notas de Literatura/How To Take Smart Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Notas de Literatura/Untitled.md"
+                "file": "Zettelkasten/Notas de Literatura/How To Take Smart Notes.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92778db39cbf9b0f",
+  "active": "0c21f6abbdcdb9ba",
   "lastOpenFiles": [
     "Zettelkasten/Notas Permanentes/index.md.md",
-    "Zettelkasten/Notas de Literatura/Untitled.md",
+    "Zettelkasten/Notas de Literatura/How To Take Smart Notes.md",
     "README.md",
     "Zettelkasten/Notas de Literatura",
     "Untitled",
