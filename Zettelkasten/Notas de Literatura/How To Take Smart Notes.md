@@ -36,7 +36,12 @@ Conjunto de anotações ou marcações realizadas no livro separadas por capítu
 ### 1.2 - The Slip-box
 
 - História de Niklas Luhman e de como ele se tornou um dos pesquisadores mais produtivos do século XX através do método Zettelkasten
-- Slip-box é uma caixa para armazenar notas
+- Slip-box é uma caixa de madeira para armazenar notas
 ### 1.3 - The slip-box manual
 
-- Niklas Luhmann possuia duas slip-box
+- Niklas Luhmann possuia duas slip-box: uma para armazenar notas bibliográficas, as quais contém as referências e notas breves do conteúdo da literatura e; a principal na qual ele coletava e gerava as suas ideias em resposta ao que ele lia.
+- Quando Luhmann lia algo, ele escreveria as informações bibliográficas em um lado de um cartão e tomava notas breves sobre o conteúdo lido no outro lado do cartão. Essas notas iriam para a slip-box bibliográfica.
+- Em um segundo momento, Luhmann olhava as suas notas breves e pensava sobre sua relevância para seu próprio pensamento e escrevia.
+- Então ele mudava para a slip-box principal e escrevia suas ideias, comentários e pensamentos em novos cartões de papel registrando apenas um única ideia por e restringindo-se a um dos lados do cartào de papel, tornando mais fácil para ler posteriormente sem ter que retira-los da caixa de madeira.
+- Enquanto as notas de literatura eram breves, ele escrevia as notas permanentes com muito cuidado e não muito diferente do estilo de um manuscrito final: sentenças completas e com referências explícitas para a literatura onde ele obteve o material.
+- 
