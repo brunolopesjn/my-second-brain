@@ -30,5 +30,13 @@ Conjunto de anotações ou marcações realizadas no livro separadas por capítu
 
 ## 1 - Everything You Need to Know
 
--  Ao dividir a tarefa amorfa de "escrever um artigo" em tarefas menores e nitidamente separadaas, você pode se concentrar em uma coisa de cada vez, concluir cada uma de uma 
+-  Ao dividir a tarefa amorfa de "escrever um artigo" em tarefas menores e nitidamente separadas, você pode se concentrar em uma coisa de cada vez, concluir cada uma de uma vez e passar para a próxima.
+- Uma boa estrutura permite o **fluxo**, o estado no qual você fica completamente imerso no seu trabalho de forma que você perde a noção do tempo e pode simplesmente continuar enquanto o trabalho se torna fácil.
 
+### 1.2 - The Slip-box
+
+- História de Niklas Luhman e de como ele se tornou um dos pesquisadores mais produtivos do século XX através do método Zettelkasten
+- Slip-box é uma caixa para armazenar notas
+### 1.3 - The slip-box manual
+
+- Niklas Luhmann possuia duas slip-box
