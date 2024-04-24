@@ -1,1 +1,2 @@
-# How 
+# How To Take Smart Notes
+
