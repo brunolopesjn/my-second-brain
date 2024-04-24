@@ -6,6 +6,7 @@ year: "2022"
 publisher: Independently Published
 location: Hamburg, Germany
 isbn: 978-3-9824388-0-1
+bibtex: '@book{ahrens2022take,  title={How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking},  author={Ahrens, S.},  isbn={9783982438818},  url={https://books.google.com.br/books?id=QmBjEAAAQBAJ},  year={2022},  publisher={S{\"o}nke Ahrens}}'
 ---
 
 # Anotações do Livro
@@ -54,4 +55,4 @@ Conjunto de anotações ou marcações realizadas no livro separadas por capítu
 
 ### 2.1 - Write a paper step by step
 
--
+- Crie notas fugazes (Fleeting Notes). Sempre tenha algo a disposição para escrever as ideias que surgem na sua mente. Não se preocupe em como ou o que escrever pois essas são as notas fugazes e são meros lembretes do que está na sua cabeça. Elas não devem causar nenhum tipo de distração e devem ser colocadas em um local que você define como sua **caixa de entrada** para mais tarde processa-las.
