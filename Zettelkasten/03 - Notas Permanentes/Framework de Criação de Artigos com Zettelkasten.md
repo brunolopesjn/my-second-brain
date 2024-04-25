@@ -30,17 +30,20 @@ Aqui adicionamos a nossa **slip-box** as notas permanentes criadas no passo ante
 
 Aqui você deve tirar um tempo e analisar o que existe na sua **slip-box**, verificar o que está faltando e quais questões surgem durante esse processo. Realize mais leituras com o objetivo de desafiar, fortalecer, mudar ou desenvolver seus argumentos existentes na **slip-box**. Desenvolva e seus argumentos com as novas  informações que você aprendeu com as novas leituras.
 
-O objetivo deste passo é de observar as relações que existem entre as notas e refletir se existe alguma ideia completa que possa ser aproveitada para a criação de um
+O objetivo deste passo é de observar as relações que existem entre as notas e refletir se existe alguma ideia completa que possa ser aproveitada para a criação de um manuscrito ou o que falta para obter uma ideia a partir das notas.
  
 ### Passo 6: Decidir qual tópico escrever a partir das ideias desenvolvidas
 
+A medida que você adiciona novas notas permanentes a sua **slip-box** e realiza o passo 5 várias vezes ao longo do tempo você terá um banco de ideias o suficiente para poder escolher um ou um conjunto delas e iniciar a escrita do seu artigo. O importante é que nesse ponto você iniciará a escrita a partir das ideias coletadas e armazenadas das suas notas e não de uma vaga ideia oriunda das diversas leituras que você realizou e armazenou em sua mente.
+
+Tente perceber as conexões entre as ideia e colete todas as notas relevantes sobre este tópico, cope-as para um documento base e coloque as ideias em ordem, sempre observando o que está faltando ou eliminando as redundâncias de modo a obter um manuscrito completo.
 
 ### Passo 7: Escrever um rascunho a partir das suas notas
 
-
+Não copie apenas suas anotações no manuscrito do artigo, traduza as notas de forma a criar um texto coerente e linear, colocando-o dentro do contexto da sua pesquisa ao mesmo tempo que você constrói seu argumento. Detecte as lacunas no seu argumento e as preencha com as informações faltantes ou mude de argumento.
 ### Passo 8: Editar e revisar o manuscrito
 
-
+Edite, revise seu manuscrito, crie a versão final do mesmo de acordo com as normas e estilos da conferência ou periódico cientifico que deseja publicar. Caso esteja escrevendo em um idioma estrangeiro, revise sua tradução e tenha certeza de usar os termos apropriados no idioma final. Ao finalizar esta etapa, dê em você mesmo uns tapinhas nos ombros e inicie a escrita do para o próximo artigo.
 
 ## Tags
 
