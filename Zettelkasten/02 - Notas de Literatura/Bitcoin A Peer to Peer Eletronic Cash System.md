@@ -6,16 +6,21 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 ---
 # Anotações do Manuscrito
 
-## Introdução
+## Introduction
 
 - O comercio eletrônico na Internet tem dependido exclusivamente de instituições financeiras que servem como terceiros confiáveis para processar pagamentos eletrônicos. Porém, enquanto o sistema funciona bem para a maioria das operações, sofre com as deficiências do modelo baseado em confiança.
 - Um sistema de pagamento baseado em prova criptográfica em vez de confiança é necessário para permitir que quais duas partes dispostas a transacionar diretamente com a outra sem a necessidade de um terceiro confiável.
 - Esse sistema baseado em prova criptográfica é seguro desde que os nós honestos controlem coletivamente mais poder de _CPU_ do que qualquer grupo cooperado de nós maliciosos.
 
-## Transações
+## Transactions
 
 - Nós (o autor) definimos uma moeda eletrônica como uma cadeia de assinaturas digitais, onde a transferência da moeda se dá através da assinatura digital do _hash_ da operação anterior e da chave pública do novo proprietário adicionando o resultado dessa operação no fim da moeda.
 - É possível verificar as assinaturas para validar a cadeia de propriedade, mas não é possível verificar se uma das partes não realizou o **gasto duplo** (uma mesma pessoa gastar a mesma moeda duas ou mais vezes em transações distintas).
 - Uma solução comum é a introdução de uma autoridade monetária confiável, que verifique o gasto duplo para todas as transações. O problema desta solução é que o destino de todo o sistema monetário depende da empresa ou governo que gerencia essa autoridade monetária.
 - É necessário criar um mecanismo que permita verificar se os antigos detentores da moeda realizaram alguma outra transação envolvendo essa mesma moeda. Para o nosso propósito, a transação mais antiga é a que vale, desta maneira não nos importamos com as tentativas posteriores de gasto duplo.
 - Para permitir este tipo de validação sem depender de uma autoridade monetária, é necessário que todas as transações sejam anunciadas publicamente e também é necessário um sistema no qual todas as pessoas participantes concordem com um histórico único da ordem de realização das transações recebidas.
+- Uma pessoa que esteja recebendo uma moeda necessita ter a certeza de que no momento em que ocorre uma transação a maioria das outras pessoas (ou nós) participantes concordam que esta moeda foi transacionada pela primeira vez pelo proprietário anterior.
+
+## Timestamp Server
+
+- 
