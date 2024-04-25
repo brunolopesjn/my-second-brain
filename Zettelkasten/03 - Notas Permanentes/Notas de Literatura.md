@@ -6,6 +6,10 @@ Quando Luhmann lia alguma coisa, ele escrevia as informações bibliográficas e
 
 #zettelkasten 
 
+## Veja também
+
+- [[Zettelkasten]]
+
 ## Bibliografia
 
 - (AHRENS, 2022) [[How To Take Smart Notes]]

@@ -12,10 +12,17 @@ O ato de ler é constante durante a pesquisa científica e sempre que estiver le
 
 ### Passo 3: Criar [[Notas Permanentes]] (Permanent Notes)
 
-Nessa etapa, passe pelas notas que você criou nos passos 1 e 2 idealmente uma vez por dia e antes que você se esqueça o significado e o contexto delas. Reflita como as ideias dessas notas 
+Nessa etapa, passe pelas notas que você criou nos passos 1 e 2 idealmente uma vez por dia e antes que você se esqueça o significado e o contexto delas. Reflita como as ideias dessas notas se relacionam com o que é importante para a sua pesquisa, pensamentos e interesses. Aqui o objetivo não é coletar mais notas e sim desenvolver ideias, argumentos e discussões. A seguir, um conjunto de perguntas que podem ser feitas para ajudar nessa etapa:
+
+- A nova informação contradiz, corrige, sustenta ou adiciona algo ao que já possuo?
+- Existe alguma ideia que pode ser combinada para gerar algo novo?
+- Existe algum questionamento que se formou a partir destas novas ideias?
 
 ### Passo 4: Adicionar as novas notas permanentes na slip-box
 
+Aqui adicionamos a nossa **slip-box** as notas permanentes criadas no passo anterior seguindo os seguintes critérios:
+
+1. Se uma nova nota permanente possui uma forte relação com uma nota já existente na **slip-box**, posicione-a logo atrás dela (no caso de um sistema zettelkasten manual) ou crie um link da nova nota para a nota existente e vice-versa.
 
 ### Passo 5: Desenvolver tópicos, questões e projetos de pesquisa a partir do sistema (bottom-up)
 
@@ -33,6 +40,13 @@ Nessa etapa, passe pelas notas que você criou nos passos 1 e 2 idealmente uma v
 ## Tags
 
 #zettelkasten #notas-literatura #notas-permanentes
+
+## Veja também
+
+- [[Zettelkasten]]
+- [[Notas fugazes]]
+- [[Notas de Literatura]]
+- [[Notas Permanentes]]
 
 ## Bibliografia
 

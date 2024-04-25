@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "359c71f848a4d0da",
@@ -104,7 +105,7 @@
               "type": "backlink",
               "state": {
                 "file": "Zettelkasten/03 - Notas Permanentes/Framework de Criação de Artigos com Zettelkasten.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -151,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,13 +166,13 @@
   },
   "active": "9a11d1a80d793c79",
   "lastOpenFiles": [
-    "Zettelkasten/03 - Notas Permanentes/Notas fugazes.md",
-    "Zettelkasten/03 - Notas Permanentes/Notas de Literatura.md",
-    "Zettelkasten/03 - Notas Permanentes/Notas Permanentes.md",
     "Zettelkasten/03 - Notas Permanentes/Framework de Criação de Artigos com Zettelkasten.md",
-    "Zettelkasten/02 - Notas de Literatura/How To Take Smart Notes.md",
     "Zettelkasten/03 - Notas Permanentes/Niklas Lumann.md",
     "Zettelkasten/03 - Notas Permanentes/Zettelkasten.md",
+    "Zettelkasten/03 - Notas Permanentes/Notas Permanentes.md",
+    "Zettelkasten/03 - Notas Permanentes/Notas fugazes.md",
+    "Zettelkasten/03 - Notas Permanentes/Notas de Literatura.md",
+    "Zettelkasten/02 - Notas de Literatura/How To Take Smart Notes.md",
     "Zettelkasten/01 - Notas Fugazes",
     "Zettelkasten/03 - Notas Permanentes/index.md.md",
     "README.md",

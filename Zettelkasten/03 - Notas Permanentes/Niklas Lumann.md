@@ -10,6 +10,10 @@ Ele logo desenvolveu novas categorias para essas notas e também percebeu que um
 
 #zettelkasten
 
+## Veja também
+
+- [[Zettelkasten]]
+
 ## Bibliografia
 
  AHRENS, 2022 - [[How To Take Smart Notes]]

@@ -6,6 +6,10 @@ Ele então se voltava para a **slip-box** principal e escrevia suas ideias, come
 
 #zettelkasten 
 
+## Veja também
+
+- [[Zettelkasten]]
+
 ## Bibliografia
 
 - (AHRENS, 2022) [[How To Take Smart Notes]]

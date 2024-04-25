@@ -6,6 +6,9 @@ Pequenas notas que servem como lembretes de ideias que surgem de forma expontân
 
 #notas-fugazes
 
+## Veja também
+
+- [[Zettelkasten]]
 
 ## Bibliografia
 
