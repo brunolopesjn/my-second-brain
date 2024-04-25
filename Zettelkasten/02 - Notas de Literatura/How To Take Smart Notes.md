@@ -65,6 +65,8 @@ Conjunto de anotações ou marcações realizadas no livro separadas por capítu
 		1. Posicionando-as logo atrás da nota mais relacionada. Veja qual nota a nova se relaciona diretamente ou, caso não se relacione com nenhuma existente, coloque-a após a última nota.
 		2. Adicione links para as notas relacionadas
 		3. Tenha certeza de que você será capaz de encontrar esta nota posteriormente seja pelo link para ela no seu índice ou seja através de um link de uma outra nota que inicia a discussão ou tópico.
-	5. Desenvolva seus tópicos, questões e projetos de pesquisa de baixo para cima (bottom-up) a partir de dentro do sistema. Veja o que existe lá, o que está faltando e quais questões surgem. Leia mais para desafiar, fortalecer, mudar e desenvolver seus argumentos de acordo com as novas informações que você aprendeu sobre.
-		- A ideia do **bottom-up** é a partir das notas permanentes já existentes, observar as relaçõe
-	6. 
+	5. **Desenvolva seus tópicos, questões e projetos de pesquisa de baixo para cima (bottom-up) a partir de dentro do sistema**. Veja o que existe lá, o que está faltando e quais questões surgem. Leia mais para desafiar, fortalecer, mudar e desenvolver seus argumentos de acordo com as novas informações que você aprendeu sobre.
+		- A ideia do **bottom-up** é a partir das notas permanentes já existentes, observar as relações existentes entre os tópicos e refletir se existe uma ideia completa sobre o que falta para fechar uma ou sobre a relação entre elas.
+	6. **Depois de um tempo, você terá desenvolvido ideias o suficiente para decidir sobre qual tópico escrever**. Seu manuscrito é baseado no que você possui e não em uma ideia sem fundamentos sobre o que a literatura que você leu pode oferecer. Veja através das conexões e colete todas as notas relevantes sobre este tópico, copie-os para um documento delineador e os coloque em ordem. Veja o que está faltando e o que está redundante.
+	7. **Transforme suas notas em um rascunho**. Não apenas copie as suas notas em um manuscrito, Traduza-as em algo coerente e as coloque dentro do contexto do seu argumento enquanto você constrói seu argumento além das notas ao mesmo tempo. Detecte os buracos em seu argumento, preencha-os ou mude seu argumento.
+	8. Edite e revise seu manuscrito. Dê ema você mesmo um tapinha nos ombros e vá para o próximo manuscrito. 
