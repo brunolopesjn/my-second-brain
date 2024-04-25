@@ -9,7 +9,7 @@ isbn: 978-3-9824388-0-1
 bibtex: '@book{ahrens2022take,  title={How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking},  author={Ahrens, S.},  isbn={9783982438818},  url={https://books.google.com.br/books?id=QmBjEAAAQBAJ},  year={2022},  publisher={S{\"o}nke Ahrens}}'
 ---
 
-# Anotações do Livro
+# Anotações do Manuscrito
 
 Conjunto de anotações ou marcações realizadas no livro separadas por capítulo/seção.
 

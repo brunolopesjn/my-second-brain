@@ -43,7 +43,7 @@ Tente perceber as conexões entre as ideia e colete todas as notas relevantes so
 Não copie apenas suas anotações no manuscrito do artigo, traduza as notas de forma a criar um texto coerente e linear, colocando-o dentro do contexto da sua pesquisa ao mesmo tempo que você constrói seu argumento. Detecte as lacunas no seu argumento e as preencha com as informações faltantes ou mude de argumento.
 ### Passo 8: Editar e revisar o manuscrito
 
-Edite, revise seu manuscrito, crie a versão final do mesmo de acordo com as normas e estilos da conferência ou periódico cientifico que deseja publicar. Caso esteja escrevendo em um idioma estrangeiro, revise sua tradução e tenha certeza de usar os termos apropriados no idioma final. Ao finalizar esta etapa, dê em você mesmo uns tapinhas nos ombros e inicie a escrita do para o próximo artigo.
+Edite, revise seu manuscrito, crie a versão final do mesmo de acordo com as normas e estilos da conferência ou periódico cientifico que deseja publicar. Caso esteja escrevendo em um idioma estrangeiro, revise sua tradução e tenha certeza de usar os termos apropriados no idioma final. Ao finalizar esta etapa, dê em você mesmo uns tapinhas nos ombros e inicie a escrita do próximo artigo.
 
 ## Tags
 
