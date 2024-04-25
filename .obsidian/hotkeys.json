@@ -1,0 +1,11 @@
+{
+  "editor:toggle-italics": [],
+  "obsidian-tweaks:better-formatting-italics-underscore": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ]
+}

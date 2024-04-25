@@ -6,5 +6,13 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 ---
 # Anotações do Manuscrito
 
+## Introdução
+
 - O comercio eletrônico na Internet tem dependido exclusivamente de instituições financeiras que servem como terceiros confiáveis para processar pagamentos eletrônicos. Porém, enquanto o sistema funciona bem para a maioria das operações, sofre com as deficiências do modelo baseado em confiança.
+- Um sistema de pagamento baseado em prova criptográfica em vez de confiança é necessário para permitir que quais duas partes dispostas a transacionar diretamente com a outra sem a necessidade de um terceiro confiável.
+- Esse sistema baseado em prova criptográfica é seguro desde que os nós honestos controlem coletivamente mais poder de _CPU_ do que qualquer grupo cooperado de nós maliciosos.
+
+## Transações
+
+- Nós (o autor) definimos uma moeda eletrônica como uma cadeia de assinaturas digitais, onde a transferência de um ativo financeiro se dá através da assinatura digital do _hash_ da operação anterior e a chave pública do
 - 
