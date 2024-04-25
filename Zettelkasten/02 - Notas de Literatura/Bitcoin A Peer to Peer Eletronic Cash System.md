@@ -14,5 +14,6 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 
 ## Transações
 
-- Nós (o autor) definimos uma moeda eletrônica como uma cadeia de assinaturas digitais, onde a transferência de um ativo financeiro se dá através da assinatura digital do _hash_ da operação anterior e a chave pública do
-- 
+- Nós (o autor) definimos uma moeda eletrônica como uma cadeia de assinaturas digitais, onde a transferência da moeda se dá através da assinatura digital do _hash_ da operação anterior e da chave pública do novo proprietário adicionando o resultado dessa operação no fim da moeda.
+- É possível verificar as assinaturas para validar a cadeia de propriedade, mas não é possível verificar se uma das partes não realizou o **gasto duplo** (uma mesma pessoa gastar a mesma moeda duas ou mais vezes em transações distintas).
+- Uma solução comum é a introdução de uma autoridade monetária confiável, que verifique o gasto duplo para todas as transações. O problema desta solução é que o destino de 
