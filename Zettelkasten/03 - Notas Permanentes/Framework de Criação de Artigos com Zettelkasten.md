@@ -22,11 +22,16 @@ Nessa etapa, passe pelas notas que você criou nos passos 1 e 2 idealmente uma v
 
 Aqui adicionamos a nossa **slip-box** as notas permanentes criadas no passo anterior seguindo os seguintes critérios:
 
-1. Se uma nova nota permanente possui uma forte relação com uma nota já existente na **slip-box**, posicione-a logo atrás dela (no caso de um sistema zettelkasten manual) ou crie um link da nova nota para a nota existente e vice-versa.
+1. Se uma nova nota permanente possui uma forte relação com uma nota já existente na **slip-box**, posicione-a logo atrás dela (no caso de um sistema zettelkasten manual) ou crie um link bidirecional da nova nota para a nota existente (WikiLinks no Obsidian);
+2. Adicione links para as notas relacionadas;
+3. Tenha certeza de que você será capaz de encontrar a nova nota recém adicionada a sua **slip-box** posteriormente, seja através de um índice de tópicos ou seja através dos links existentes entre as notas. 
 
 ### Passo 5: Desenvolver tópicos, questões e projetos de pesquisa a partir do sistema (bottom-up)
 
+Aqui você deve tirar um tempo e analisar o que existe na sua **slip-box**, verificar o que está faltando e quais questões surgem durante esse processo. Realize mais leituras com o objetivo de desafiar, fortalecer, mudar ou desenvolver seus argumentos existentes na **slip-box**. Desenvolva e seus argumentos com as novas  informações que você aprendeu com as novas leituras.
 
+O objetivo deste passo é de observar as relações que existem entre as notas e refletir se existe alguma ideia completa que possa ser aproveitada para a criação de um
+ 
 ### Passo 6: Decidir qual tópico escrever a partir das ideias desenvolvidas
 
 
