@@ -47,4 +47,7 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 	5. Os nós aceitam o bloco somente se todas as transações existentes no bloco forem válidas e que as moedas utilizadas não foram gastas anteriormente (evitar o gasto duplo);
 	6. Os nós expressam sua aceitação do bloco trabalhando na criação do próximo bloco na cadeia, utilizando o _hash_ do bloco aceito como _hash_ anterior.
 - Os nós sempre consideram a cadeia mais longa para ser a correta e continuarão trabalhando para estende-la.
-- Se dois nós transmitirem diferentes versões do bloco seguinte simultaneamente, alguns nós podem receber um ou
+- Se dois nós transmitirem diferentes versões do bloco seguinte simultaneamente, alguns nós podem receber um ou o outro primeiro. Nesse caso, eles trabalham com o primeiro recebido, mas salvam o outro ramo caso ele se torne o mais longo.
+- O empate será quebrado quando a próxima prova de trabalho for encontrada e um ramo se torne mais longo, assim os nós que estavam trabalhando em outro ramo mudarão para o mais longo.
+- Novas transmissões de transação não precisam necessariamente alcançar todos os nós. Contanto que elas atinjam nós, elas vão entrar em um bloco em breve.
+- Transmissões de bloco também são tolerantes com mensagens abandonadas, ou seja, se um nó não recebe um bloco, ele irá solicita-lo ao receber o próximo e perceber um faltante.
