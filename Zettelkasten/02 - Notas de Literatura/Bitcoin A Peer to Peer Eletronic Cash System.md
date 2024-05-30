@@ -23,4 +23,4 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 
 ## Timestamp Server
 
-- Um servidor _timestamp_ trabalha gerando um _hash_ um bloco de itens e publicando amplamente o hash
+- Tem como objetivo gerar um _hash_ de um bloco de itens e publicar publicamente e amplamente o _hash_ co
