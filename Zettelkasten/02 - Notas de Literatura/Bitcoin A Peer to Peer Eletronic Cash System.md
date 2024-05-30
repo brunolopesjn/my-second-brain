@@ -36,4 +36,4 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 - A prova por trabalho também resolve o problema da tomada de decisão pela maioria. Se a maioria fosse baseada em **um endereço IP um voto** a rede poderia ser subvertida por qualquer pessoa capaz de alocar muitos endereços IPs. Contudo a prova de trabalho é, essencialmente **uma CPU um voto**.
 - A decisão da maioria é representada pela cadeia mais longa que, consequentemente, possui o maior esforço de prova de trabalho investido nela.
 - Logo se a maioria do poder de CPU é controlado por nos honestos, a cadeia honesta crescerá rápido e superará quaisquer cadeias concorrentes.
-- Para compensar o aumento da velocidade de hardware e o interesse variado em rodar 
+- Para compensar o aumento da velocidade de hardware e o interesse variado em executar vários nós ao longo do tempo, a dificuldade da prova de trabalho ´
