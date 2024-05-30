@@ -36,4 +36,13 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 - A prova por trabalho também resolve o problema da tomada de decisão pela maioria. Se a maioria fosse baseada em **um endereço IP um voto** a rede poderia ser subvertida por qualquer pessoa capaz de alocar muitos endereços IPs. Contudo a prova de trabalho é, essencialmente **uma CPU um voto**.
 - A decisão da maioria é representada pela cadeia mais longa que, consequentemente, possui o maior esforço de prova de trabalho investido nela.
 - Logo se a maioria do poder de CPU é controlado por nos honestos, a cadeia honesta crescerá rápido e superará quaisquer cadeias concorrentes.
-- Para compensar o aumento da velocidade de hardware e o interesse variado em executar vários nós ao longo do tempo, a dificuldade da prova de trabalho ´
+- Para compensar o aumento da velocidade de hardware e o interesse variado em executar vários nós ao longo do tempo, a dificuldade da prova de trabalho é determinada por uma média móvel visando um número médio de blocos por hora, ou seja, se eles forem gerados muito rápido, a dificuldade aumenta.
+
+## Rede
+- Os passos para executar a rede são os seguinte:
+	1. Novas transações são transmitidas para todos os nós;
+	2. Cada nó coleta novas transações em um bloco;
+	3. Cada nó trabalha para encontrar um _hash_ através da prova de trabalho desafiadora;
+	4. Quando um nó encontra uma prova de trabalho, ele transmite o bloco para todos os nós;
+	5. Os nós aceitam o bloco somente se todas as transações existentes no bloco forem válidas e que as moedas utilizadas não foram gastas anteriormente (evitar o gasto duplo)
+	6. Os nós expressam sua aceitação do bloco trabalhando na criação do próximo bloco na cadeia, utilizando o _hash_ do blo
