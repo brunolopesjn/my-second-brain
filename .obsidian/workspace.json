@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/Bitcoin A Peer to Peer Eletronic Cash System.md",
+                "file": "Zettelkasten/02 - Notas de Literatura/Hyperledger Fabric.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/Bitcoin A Peer to Peer Eletronic Cash System.md",
+                "file": "Zettelkasten/02 - Notas de Literatura/Hyperledger Fabric.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/Bitcoin A Peer to Peer Eletronic Cash System.md",
+                "file": "Zettelkasten/02 - Notas de Literatura/Hyperledger Fabric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/Bitcoin A Peer to Peer Eletronic Cash System.md"
+                "file": "Zettelkasten/02 - Notas de Literatura/Hyperledger Fabric.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "b3a31d123e0f1f6e",
   "lastOpenFiles": [
+    "Zettelkasten/02 - Notas de Literatura/Bitcoin A Peer to Peer Eletronic Cash System.md",
+    "Zettelkasten/02 - Notas de Literatura/Hyperledger Fabric.md",
     "Zettelkasten/03 - Notas Permanentes/Bitcoin.md",
     "Zettelkasten/03 - Notas Permanentes/Blockchain.md",
     "Zettelkasten/03 - Notas Permanentes/Zettelkasten.md",
-    "Zettelkasten/02 - Notas de Literatura/Bitcoin A Peer to Peer Eletronic Cash System.md",
     "Proof of Work.md",
     "Zettelkasten/03 - Notas Permanentes/Transações no Bitcoin.md",
     "Servidor Timestamp.md",
