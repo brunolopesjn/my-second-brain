@@ -32,4 +32,5 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 - A média do trabalho requerida é exponencial ao número de bits zeros requeridos e pode ser verificada por meio da execução de um único _hash_, ou seja, leva-se um tempo considerável para gerar o _hash_ mas é rápido para validar sua autenticidade.
 - No _Bitcoin_ foi implementado a prova de trabalho incrementando um campo _nonce_ (_number used once_) ate que seja encontrada uma quantidade de bits zero.
 - Uma vez que que se tenha obtido um _hash_ válido através da prova de trabalho, o bloco não pode ser alterado sem refazer este trabalho.
-- Como os demais blocos são encadeados através do _hash_ posteriormente, o trabalho de alterar um bloco requer recalcular todos os _hash_ após 
+- Como os demais blocos são encadeados através do _hash_ posteriormente, o trabalho de alterar um bloco requer recalcular todos os _hash_ após ele.
+- A prova por trabalho também resolve o problema da tomada de decisão pela maioria. Se a prova de trabal
