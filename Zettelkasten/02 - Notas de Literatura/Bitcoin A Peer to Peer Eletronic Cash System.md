@@ -23,4 +23,4 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 
 ## Timestamp Server
 
-- 
+- Um servidor timestamp
