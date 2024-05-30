@@ -44,5 +44,7 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 	2. Cada nó coleta novas transações em um bloco;
 	3. Cada nó trabalha para encontrar um _hash_ através da prova de trabalho desafiadora;
 	4. Quando um nó encontra uma prova de trabalho, ele transmite o bloco para todos os nós;
-	5. Os nós aceitam o bloco somente se todas as transações existentes no bloco forem válidas e que as moedas utilizadas não foram gastas anteriormente (evitar o gasto duplo)
-	6. Os nós expressam sua aceitação do bloco trabalhando na criação do próximo bloco na cadeia, utilizando o _hash_ do blo
+	5. Os nós aceitam o bloco somente se todas as transações existentes no bloco forem válidas e que as moedas utilizadas não foram gastas anteriormente (evitar o gasto duplo);
+	6. Os nós expressam sua aceitação do bloco trabalhando na criação do próximo bloco na cadeia, utilizando o _hash_ do bloco aceito como _hash_ anterior.
+- Os nós sempre consideram a cadeia mais longa para ser a correta e continuarão trabalhando para estende-la.
+- Se dois ou mais nós transmitirem diferentes versões do b
