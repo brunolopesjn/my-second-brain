@@ -23,4 +23,5 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 
 ## Timestamp Server
 
-- Tem como objetivo gerar um _hash_ de um bloco de itens e publicar publicamente e amplamente o _hash_ como ocorre
+- Tem como objetivo gerar um _hash_ de validação de um bloco de itens e publicar publicamente e amplamente o _hash_ como ocorre em um jornal ou revista de grande circulação
+- 
