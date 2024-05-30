@@ -30,4 +30,4 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 - Para implementar um mecanismo distribuído de _timestamp_ em uma rede _peer-to-peer_, será necessário utilizar um sistema de **prova de trabalho** semelhando ao _Hashcash_ de Adam Back.
 - Esse mecanismo envolve a procura por um valor que quando calculado o _hash_ o mesmo comece com um número de bits zero.
 - A média do trabalho requerida é exponencial ao número de bits zeros requeridos e pode ser verificada por meio da execução de um único _hash_, ou seja, leva-se um tempo considerável para gerar o _hash_ mas é rápido para validar sua autenticidade.
-- No _Bitcoin_ foi implementado a prova de trabalho incrementando um campo _nonce_
+- No _Bitcoin_ foi implementado a prova de trabalho incrementando um campo _nonce_ (number used once)
