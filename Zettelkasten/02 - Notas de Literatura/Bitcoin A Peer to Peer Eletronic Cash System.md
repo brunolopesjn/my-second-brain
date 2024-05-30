@@ -27,4 +27,5 @@ bibtex: "@article{nakamoto2009bitcoin,  abstract = {A purely peer-to-peer versio
 
 ## Proof of Work
 
-- Para implementar um mecanismo distribuído de timestamp
+- Para implementar um mecanismo distribuído de _timestamp_ em uma rede _peer-to-peer_, será necessário utilizar um sistema de **prova de trabalho** semelhando ao _Hashcash_ de Adam Back.
+- 
