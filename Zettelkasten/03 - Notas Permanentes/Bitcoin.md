@@ -6,6 +6,10 @@ O Bitcoin é uma forma de dinheiro digital que foi introduzido em 2009 por Satos
 
 #bitcoin #blockchain 
 
+## Nota de literatura
+
+[[Bitcoin A Peer to Peer Eletronic Cash System]]
+
 ## Veja Também
 
 [[Transações no Bitcoin]]

@@ -11,6 +11,11 @@ O processo de adicionar novos bloco de dados à cadeia é chamado de **mineraç�
 ## Tags
 
 #blockchain #consenso #mineração #ledger
+
+## Nota de literatura
+
+[[Bitcoin A Peer to Peer Eletronic Cash System]]
 ## Veja também
 
 [[Bitcoin]]
+[[Zettelkasten/03 - Notas Permanentes/Hyperledger Fabric|Hyperledger Fabric]]

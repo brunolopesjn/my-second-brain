@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/Hyperledger Fabric.md",
+                "file": "Zettelkasten/03 - Notas Permanentes/Hyperledger Fabric.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cd998be8a87f9c48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67a42fc473ae81db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/02 - Notas de Literatura/Hyperledger Fabric Docs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/Hyperledger Fabric.md",
+                "file": "Zettelkasten/03 - Notas Permanentes/Hyperledger Fabric.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/Hyperledger Fabric.md",
+                "file": "Zettelkasten/03 - Notas Permanentes/Hyperledger Fabric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/02 - Notas de Literatura/Hyperledger Fabric.md"
+                "file": "Zettelkasten/03 - Notas Permanentes/Hyperledger Fabric.md"
               }
             }
           }
@@ -148,16 +166,17 @@
   },
   "active": "d17e3140646e6faa",
   "lastOpenFiles": [
-    "Zettelkasten/02 - Notas de Literatura/Hyperledger Fabric.md",
-    "Zettelkasten/02 - Notas de Literatura/Bitcoin A Peer to Peer Eletronic Cash System.md",
-    "Zettelkasten/03 - Notas Permanentes/Bitcoin.md",
+    "Zettelkasten/02 - Notas de Literatura/Hyperledger Fabric Docs.md",
+    "Zettelkasten/03 - Notas Permanentes/Hyperledger Fabric.md",
     "Zettelkasten/03 - Notas Permanentes/Blockchain.md",
+    "Zettelkasten/03 - Notas Permanentes/index.md.md",
+    "Zettelkasten/03 - Notas Permanentes/Bitcoin.md",
+    "Zettelkasten/03 - Notas Permanentes/Proof of Work.md",
+    "Zettelkasten/02 - Notas de Literatura/How To Take Smart Notes.md",
+    "Zettelkasten/02 - Notas de Literatura/Bitcoin A Peer to Peer Eletronic Cash System.md",
     "Zettelkasten/03 - Notas Permanentes/Zettelkasten.md",
-    "Proof of Work.md",
     "Zettelkasten/03 - Notas Permanentes/Transações no Bitcoin.md",
     "Servidor Timestamp.md",
-    "Zettelkasten/03 - Notas Permanentes/index.md.md",
-    "Zettelkasten/02 - Notas de Literatura/How To Take Smart Notes.md",
     "Zettelkasten/03 - Notas Permanentes/Framework de Criação de Artigos com Zettelkasten.md",
     "Zettelkasten/03 - Notas Permanentes/Niklas Lumann.md",
     "Zettelkasten/03 - Notas Permanentes/Notas Permanentes.md",
