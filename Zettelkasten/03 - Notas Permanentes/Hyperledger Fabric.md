@@ -1,13 +1,16 @@
 # Hyperledger Fabric
 
-O Hyperledger Fabric é uma estrutura de [[Blockchain]] de código aberto e modular projetada para o desenvolvimento de aplicativos, soluções e produtos baseados em blockchain em diversos setores. Ele oferece uma arquitetura flexível e personalizável, permitindo que as organizações criem redes blockchain permissionadas adaptadas às suas necessidades específicas.
+O _Hyperledger Fabric_ é uma plataforma de livro razão (_ledger_) distribuída e de código fonte aberto (_open source_) para uso em aplicações empresariais, que oferece alguns recursos importantes que diferencia o Hyperledger Fabric em relação a outras plataformas populares de _blockchain_.
 
-Principais características:
-- **Arquitetura modular**: Permite a personalização e adaptação a diferentes casos de uso.
-- **Confidencialidade e privacidade**: suporta canais privados para transações confidenciais.
-- **Contratos inteligentes (chaincode)**: Permite a criação de lógica de negócio complexa em várias linguagens de programação (Go, Java e JavaScript).
-- **Consenso configurável**: Oferece algoritmos de consenso plugáveis, como Kafka e Raft, para atender a diferentes requisitos de desempenho e escalabilidade.
-- **Gerenciamento de identidade**: Permite o controle de acesso e permissões na rede.
+Um dos principais pontos de diferenciação em relação as outras plataformas é que o Hyperledger Fabric foi estabelecido sob a _Linux Foundation_, qual possui uma longa história de sucesso ao fomentar projetos de código aberto sob um modelo de governança aberta que promove a criação de comunidades fortes e sustentáveis e ecossistemas prósperos.
+
+A iniciativa Hyperledger é governada por um comitê diversificado de supervisão técnica (Technical Oversight Committee), enquanto que o projeto _Fabric_ (um dos diversos existentes na iniciativa Hyperledger) é administrado por um conjunto diversificado de mantenedores de várias organizações.
+
+O _Hyperledger Fabric_ possui uma arquitetura modular e configurável, permitindo a inovação, versatilidade e otimização para uma ampla gama de casos de uso do setor bancário, financeiro, seguros, recursos humanos, saúde, cadeia de suprimentos, entre outros.
+
+Também o Hyperledger Fabric foi a primeira plataforma de blockchain a oferecer suporte a **contratos inteligentes criados em linguagens de programação de uso geral** como java, Go e Node.js em vez de linguagens específicas de domínio restritas.
+
+É possível criar redes blockchain permissionadas com o Hyperledger Fabric, ou seja, diferentes das redes públicas sem permissão, os participantes são conhecidos uns dos  outros em vez de anônimos e, portanto, os participantes podem não confiarem totalmente uns nos outros. Mesmo assim a rede pode ser governada sobre um modelo de governança que se baseia na confiança existente entre os participantes 
 
 ## Tags
 
